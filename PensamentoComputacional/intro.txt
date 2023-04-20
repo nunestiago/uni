@@ -2,3 +2,26 @@ Fundamentos da computação
 
 Pensamento computacional é tido como quarta habilidade fundamental
 Leitura, escrita e aritmética são as outras três
+
+Equação fundamental do computadores
+
+Todos os processadores possuem o conjunto de instruçoes básicas.
+
+Alegoria da caverna.
+
+Prova módulo 1
+
+Tema 1: Introdução aos Princípios Fundamentais da Computação
+
+Q1: Estudamos sobre a equação essencial dos computadores. De acordo com o que foi visto, os computadores
+R: são incrivelmente rápidos e tolos
+
+Q2: Analise as afirmações a seguir:
+
+I – Computadores são capazes de executar bilhões de instruções por segundo.
+II – Computadores são capazes de discernir e compreender, por exemplo, usando inteligência artificial.
+III – Toda e qualquer capacidade de discernimento/compreensão é ausente em computadores. São as pessoas, dotadas de tais habilidades essencialmente humanas, que escrevem listas de instruções para os computadores, que, embora não façam ideia do objetivo da execução das instruções em questão, geram resultados que fazem sentido para as pessoas.
+
+R: I e III
+
+
