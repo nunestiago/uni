@@ -1,0 +1,100 @@
+Fundamentos da computação
+
+Pensamento computacional é tido como quarta habilidade fundamental
+Leitura, escrita e aritmética são as outras três
+
+Equação fundamental do computadores
+
+Todos os processadores possuem o conjunto de instruçoes básicas.
+
+Alegoria da caverna.
+
+Exercício módulo 1
+
+Tema 1: Introdução aos Princípios Fundamentais da Computação
+
+Q1: Estudamos sobre a equação essencial dos computadores. De acordo com o que foi visto, os computadores
+R: são incrivelmente rápidos e tolos
+
+Q2: Analise as afirmações a seguir:
+
+I – Computadores são capazes de executar bilhões de instruções por segundo.
+II – Computadores são capazes de discernir e compreender, por exemplo, usando inteligência artificial.
+III – Toda e qualquer capacidade de discernimento/compreensão é ausente em computadores. São as pessoas, dotadas de tais habilidades essencialmente humanas, que escrevem listas de instruções para os computadores, que, embora não façam ideia do objetivo da execução das instruções em questão, geram resultados que fazem sentido para as pessoas.
+
+R: I e III
+
+Algoritmo
+
+Um algoritmo é uma sequência finita e bem definida de instruções ou regras
+precisas que levam a uma solução de um problema ou execução de uma tarefa
+específica. Essas instruções são expressas em termos de operações e processos
+lógicos que, quando executados em uma determinada ordem, produzem um resultado
+desejado.
+
+Os algoritmos podem ser usados para resolver problemas em várias áreas, como
+matemática, ciência da computação, engenharia, física e outras disciplinas.
+Eles são fundamentais na programação de computadores, pois são usados para
+desenvolver programas que realizam tarefas específicas.
+
+Os algoritmos podem ser representados de várias maneiras, incluindo diagramas
+de fluxo, pseudocódigo, linguagens de programação e outras notações formais.
+Eles também podem ser classificados de acordo com sua complexidade e eficiência
+em relação ao tempo e recursos necessários para executá-los.
+
+Definição simplificada ->
+É um termo que reflete uma ideia mais completa, em que o conjunto de
+instruções possuem uma finalidade útil. Não precisa ser escrito em linguagem de
+computador, podendo ser escrito, por exemplo, em português. 
+
+
+Código
+
+É um conjunto qualquer de instruções simples escrito em alguma linguagem padrão
+compreensível para o computador. Deve ser escrito em uma linguagem de
+programação padrão, senão os computadores não conseguirão executá-lo.
+
+Exercício módulo 2
+
+Q1: Sobre a diferença entre algoritmos e códigos de computadores, analise as
+afirmações abaixo e depois marque a opção que relaciona corretamente as
+afirmações a um código ou a um algoritmo.
+
+I – Sequência de passos simples e bem projetados para realizar uma tarefa ou resolver um problema.
+II – Pode ser em uma linguagem de programação padrão.
+III – Sequência de instruções que computadores podem executar.
+IV – Deve ser escrito em uma linguagem de programação padrão, senão os computadores não conseguirão executá-lo.
+
+R: I – algoritmo; II – algoritmo; III – código; IV – código.
+
+Q2: Analise as afirmações a seguir:
+
+I – O ser humano, que escreve códigos em alguma linguagem para/através de uma
+sequência de instruções bastantes simples, consegue gerar uma aplicação útil.
+II – A inteligência artificial, que escreve códigos em alguma linguagem
+para/através de uma sequência de instruções bastantes simples, consegue gerar
+uma aplicação útil.
+III – O processador do computador, que processa instruções escritas em alguma
+linguagem para/através de uma sequência de instruções bastantes simples,
+consegue gerar uma aplicação útil. IV – O ser humano, que escreve códigos em
+alguma linguagem para/através de uma sequência de instruções complexas,
+consegue gerar uma aplicação útil.
+
+R: I apenas
+
+Exercício módulo 3
+Q1: Para que um código reproduza a saída "13 35 Brasil", qual das alternativas estaria correta?
+R: print("13 35 Brasil")
+
+Q2: Qual será a saída do código abaixo?
+
+NOME="João"
+print(NOME, "NOME", "NOME");
+R: João NOME NOME
+
+O que é um algoritmo? Um algoritmo é sequência finita de instruções simples e executáveis a serem seguidas para a solução de um determinado problema, especialmente por computadores.
+
+Estudamos sobre a equação essencial dos computadores. Segundo o que estudamos, os computadores são inacreditavelmente rápidos. A segunda característica fundamental é: são tolos
+
+  Em computação, o que é uma string? é o nome de um tipo de dado constituído por uma sequência de caracteres, ou seja, um texto.
+

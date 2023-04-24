@@ -1,0 +1,16 @@
+Módulo 1
+
+Q1: Depois que uma CPU executa uma instrução, o que, geralmente, faz a seguir?
+R: executa a próxima instrução na sequência de instruções.
+
+Q2: Em código de máquina, para que serve a instrução goto?
+R: Alterar a ordem de execução de instruções pela CPU, como, por exemplo, para implementar loops de repetição e estruturas condicionais.
+
+Módulo 2
+
+Q1: Suponha que você clique duas vezes no Firefox.exe em um computador para executá-lo. Qual das seguintes opções descreve melhor o que acontece?
+R: O sistema operacional copia as instruções do Firefox do disco para a RAM e, em sequida, a CPU executa as intruções na RAM.
+
+Q2: Firmwares são componentes fundamentais de computadores, pois:
+R: São responsáveis por dar início ao processo de boot, para carregamento do sistema operacional.
+
