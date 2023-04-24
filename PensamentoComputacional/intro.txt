@@ -98,3 +98,17 @@ Estudamos sobre a equação essencial dos computadores. Segundo o que estudamos,
 
   Em computação, o que é uma string? é o nome de um tipo de dado constituído por uma sequência de caracteres, ou seja, um texto.
 
+Sistema Operacional
+
+Q1: Suponha que você clique duas vezes no Firefox.exe em um computador para executá-lo. Qual das seguintes opções descreve melhor o que acontece?
+R: O sistema operacional copia as instruções do Firefox do disco para a RAM e, em seguida, a CPU executa as instruções na RAM. 
+
+Q2: Firmwares são componentes fundamentais de computadores, pois:
+R: são responsáveis por dar início ao processo de boot, para carregamento do sistema operacional.
+
+linguagens de programação
+A compiled programming language, like C or C++, requires a separate program called a compiler to translate the source code into machine code, which is then executed directly by the computer's processor. The compilation process typically involves several steps, including preprocessing, compilation, assembly, and linking. The resulting executable file can be run independently of the compiler and the source code.
+
+On the other hand, an interpreted programming language, like Python or Ruby, does not require compilation. Instead, the source code is interpreted line-by-line by an interpreter program, which executes the instructions directly. The interpreter reads the source code, converts it into an intermediate code, and then executes the code on the fly. Since the interpreter has to read and interpret each line of code at runtime, interpreted programs may run slower than compiled programs.
+
+In general, compiled languages tend to be faster and more efficient, as the code has already been translated into machine code before execution. Interpreted languages, on the other hand, tend to be more flexible and easier to debug, as the source code can be modified and executed dynamically without requiring a separate compilation step.
