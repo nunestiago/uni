@@ -1,0 +1,92 @@
+Módulo 1
+
+Hardware é o que você pode chutar, já software é o que você só pode xingar.
+
+O cérebro do computador é a CPU (Central Processing Unit). Quando olhamos as partes de uma CPU, identificamos os transistores.
+
+Lei de Moore - Essa lei diz que o número de transistores contidos em um chip dobra em um período entre 18 e 24 meses.
+-> Desempenho - A lei pode significar que a indústria tem conseguido dobrar o número de transistores embutidos em um chip a cada dois anos. Essa observação descreve um crescimento exponencial bastante poderoso. 
+-> Econômico - Os transistores estão ficando cada vez mais baratos. Dessa forma, com o passar do tempo, devido ao baixo custo, é possível criar sistemas computacionais em outros aparelhos, como telefone celular, geladeira, torradeira, termostatos e até em óculos. 
+
+Q1: A definição de hardware é:
+R: Nome que passou a ser convencionado para a parte física dos equipamentos de computação.
+
+Q2: Ao introduzirmos a ideia de que o mundo dos computadores não deve ser observado como um retrato atual da tecnologia, o objetivo é demonstrar o sentido de sua construção como solução para os homens. Assim, hardware pode ser compreendido como:
+R: Variável para o desenvolvimento de máquinas modernas computacionais
+
+Módulo 2 - Componentes fundamentais do computador
+
+ CPU - Cérebro
+Também chamada de processador, é uma espécie de cérebro. É a CPU quem, de fato, processa instruções.
+ 
+ Memória RAM - Temporária
+É uma espécie de memória temporária. Também chamada de memória volátil: tudo o que está na RAM (Ramdom Access Memory) é instantaneamente apagado quando o computador é desligado.
+
+ Memória persistente - Permanente
+Geralmente, é um disco, um HD (Hard-Disk) ou um pen drive. Os dados armazenados neste tipo de memória permanecem ali mesmo quando o computador é desligado e, por isso, é chamada de memória persistente.
+
+Q1: Observe a lista de hardwares a seguir:
+
+I. CPU
+II. RAM
+III. Disco rígido
+IV. SSD (Solid State Drive)
+V. Cooler
+VI. Pen drive
+
+Marque a opção que indica os componentes de hardware que provêm armazenamento persistente, isto é, os dados permanecem armazenados mesmo quando o componente é desligado.
+R: III, IV e VI 
+
+Q2: Entre os componentes de hardware estudados, selecione a opção que indica o componente responsável por armazenar instruções e dados usados para execução das instruções que compõem um algoritmo/aplicativo/código.
+R: RAM
+
+Módulo 3 - Unidades de armazenamento de dados
+
+Q1: Analise as opções a seguir, que indicam quantos valores diferentes podem ser armazenados, respectivamente, em um conjunto de 2, 7 e 10 bits.
+R: 4, 128 e 1024 valores distintos
+
+Q2: Após ler a frase a seguir, no contexto de unidades de armazenamento de dados, analise os enunciados e indique a alternativa a que ela se refere:
+
+“Ao olhar para um byte, na verdade, você está olhando para um conjunto de oito dígitos binários”.
+
+I. Os computadores são construídos de forma que a unidade básica de informação (byte) possa assumir apenas dois valores, zero ou um. Por isso, pode-se dizer que um byte pode assumir dois estados: zero ou um.
+
+II. Aqueles que trabalharam no desenvolvimento de computadores identificaram esta forma como muito mais barata de construir estes hardwares quando comparada a outras formas: tudo o que os computadores são capazes de fazer é construído a partir dessa coleção de bits simples, que são apenas zero e um.
+
+III. Um bit é pequeno demais para ser de fato útil. Então, o que se faz é agrupar oito bits para criar um byte. O byte é apenas uma unidade de medida muito comum, que representa, por exemplo, um caractere.
+
+Das afirmativas acima:
+R: II e III são verdadeiras
+
+Exercício
+
+Q1: Quantos bits existem em um byte, e quantos valores distintos é possível representar com um byte, respectivamente?
+R: 8 e 256
+
+Q2: Entre os componentes de hardware estudados, selecione a opção que indique o componente responsável efetivamente executar instruções.
+R: CPU
+
+Q3: De onde um aplicativo é "lido" quando o usuário ordena a inicialização de sua execução?
+R: HD/SSD/Pendrive
+
+Q4: Quantos Megabytes possui um Gigabyte?
+R: 1024
+
+Q5: Segundo a Lei de Moore, o que dobra à cada intervalo de aproximadamente 18 a 24 meses?
+R: O número de transistores embutidos em novos chips disponíveis no mercado
+
+Q6: Quantos valores distintos podem ser representados por 5 bits?
+R: 32
+
+Q7: Quantos bits possui um Megabyte?
+R: 8388608
+
+Q8: Conforme estudamos, a Lei de Moore é uma observação, feita originalmente por Gordon Moore, co-fundador da Intel? Analise as afirmações abaixo, e selecione as que podem ser atribuídas como consequências da Lei de Moore, ao longo das últimas décadas
+
+I - A redução do custo de computadores, a ponto de serem usados em todos os setores do mercado de trabalho, tanto na esfera pública quanto privada.
+
+II - Aumento do poder computacional disponível ao público. Por exemplo, um computador pessoal (PC) modelo possui, atualmente, mais poder de processamento do que todo o poder computacional do planeta nos anos 60.
+
+III - O aumento do custo de computadores. Mesmo assim, eles têm sido usados em todos os setores do mercado de trabalho, tanto na esfera pública quanto privada.
+
+R: I e II
