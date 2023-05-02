@@ -1,21 +1,13 @@
 Mód 1
-Decomposição
-Decompor problema em itens menores e ir fazendo cada etapa
+De acordo com Blikstein (2008), pensamento computacional significa saber usar o computador como um instrumento de aumento dos poderes cognitivo e operacional humanos. Em outras palavras, trata-se de usar computadores e suas redes para aumentar nossa produtividade, inventividade e criatividade.
 
-A decomposição busca dividir um problema ou sistema complexo em partes menores, mais fáceis de compreender, gerenciar e resolver. Quando deixamos de olhar para um sistema como um todo e estudamos cada uma de suas peças menores, fica mais simples de compreender e buscar a solução desejada.
+    Decomposição: A habilidade de dividir um problema complexo em partes menores e mais gerenciáveis. Isso permite que você lide com cada parte separadamente, tornando mais fácil entender e resolver o problema como um todo.
 
-Abstração
-Abstrair informações que não são relevantes
+    Padrões: A capacidade de identificar padrões e tendências em dados e informações. Isso permite que você generalize soluções para problemas semelhantes e aplique abordagens eficazes para resolver problemas.
 
-Buscamos desconsiderar informações ou detalhes que não sejam imprescindíveis para resolver nosso problema.
+    Abstração: A habilidade de reduzir a complexidade de um sistema, concentrando-se nos aspectos mais relevantes e ignorando os menos importantes. Isso permite que você simplifique problemas e se concentre nas partes mais críticas.
 
-Reconhecimento de padrões
-
-Padrões são semelhanças ou características que alguns dos problemas compartilham entre si. O reconhecimento dessas referências tem por objetivo aproveitar soluções já usadas no passado para lidar com uma nova dificuldade que seja suficientemente similar.
-
-Automatização por meio de algoritmos
-
-Em um exemplo de uma empresa aérea, podemos relacionar a criação de algoritmos aos documentos com instruções dadas a cada funcionário, onde ele acessa detalhes passo a passo dos procedimentos que deve seguir para a realização de seu trabalho.
+    Algoritmos: A habilidade de desenvolver passo a passo, soluções precisas e bem definidas para problemas específicos. Isso permite que você projete e implemente soluções eficazes e escaláveis para problemas computacionais.
 
 Q1:Sabemos que o computador representa uma tecnologia muito versátil e que não pode ser reduzida a uma única função. Por isso, compreender o conceito de pensamento computacional é fundamental para que não o confundamos com outras relações que o ser humano possa ter com o computador. Sobre esse conceito, avalie as afirmativas a seguir:
 
@@ -30,3 +22,29 @@ R: III
 
 Q2: Podemos afirmar que, entre os quatro pilares do pensamento computacional, existe um principal?
 R: Não, todos os 4 pilares (Decomposição, Abstração, Reconhecimento de Padrões e Automatização por meio de algoritmos) são importantes
+
+Mód 2
+
+Q1: A Economia Criativa é uma área que, cada vez mais, vem utilizando o pensamento computacional em seu estudo e desenvolvimento. Podemos identificar como Economia Criativa:
+
+I. Design – de interiores, gráfico, de moda, de joias e de brinquedos.
+
+II. Novas mídias – software, games e demais conteúdos digitais.
+
+III. Expressões culturais tradicionais – artesanato, festivais etc.
+
+Está correto o que se afirma em
+R: I, II e III
+
+Q2: A utilização de máquinas que auxiliam o ser humano nas mais diversas atividades, ou seja, no pleno uso do pensamento computacional, atinge áreas cada vez mais inesperadas. Talvez o Direito seja uma delas, por se tratar de uma prática tipicamente humana, já que se baseia, de modo prioritário, na arte argumentativa.
+
+Sobre essa utilização, analise as afirmativas:
+
+I. Além da automatização de trabalhos manuais, por meio da utilização de inteligência artificial, tem sido possível interpretar textos, identificar tendências e até mesmo sugerir decisões com base nessas informações jurídicas anteriores.
+
+II. Há previsão de que, nas próximas décadas, haverá softwares que façam buscas inteligentes na literatura jurídica, identificando os pontos mais relevantes em um processo e gerando hipóteses para outros casos similares.
+
+III. O que tem diminuído a velocidade da utilização de softwares no âmbito do Direito é o aumento dos custos com pessoal, bem como o aumento do tempo necessário para realizar pesquisas que ajudariam em um processo jurídico.
+
+Está correto o que se afirma em
+R: I
