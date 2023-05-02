@@ -3,3 +3,85 @@ img.setZoom( 20 );
 pixel = img.getPixel( 4, 4 );
 pixel.setRed( 255 );
 print(img);
+
+Q1: Dos trechos de código, a seguir, qual gerará o canal azul de uma imagem (toda ela apenas em tons de azul)?
+R: for( pixel:img ) {
+	pixel.setGreen(0);
+	pixel.setRed(0);
+}
+print(img);
+
+Q2: Suponha a imagem a seguir, de 1.400 pixels de largura por 932 de altura:
+Lembre-se de que o total de pixels de uma imagem é obtido pela multiplicação do número de pixels de altura pelo número de pixels de largura. Suponha que desejemos escrever um código de computador que retire os componentes de azul e de vermelho para cada pixel da imagem.
+
+Para isso, as instruções seriam:
+
+img.getPixel( 0,0 );
+pixel.setBlue( 0 );
+pixel.setRed( 0 );
+
+Se escrevêssemos um código para cada um dos pixels da imagem, quantas linhas totais teríamos de escrever?
+R: 3.914.400. Pode parecer que seria simplesmente fazer 1400*932, mas são 3 linhas para cada pixel
+
+Módulo 3 Expressões de código em computador
+Q1: Na imagem a seguir realizamos uma edição de modo que os componentes azul e verde ficaram totalmente embaralhados:
+
+Não há como recuperá-los (canais de cores verde e azul). Toda a informação útil da imagem está apenas em tons de vermelho. Para tentarmos revelar a imagem original, nossa melhor esperança é ordenar ao computador que, para pixel da imagem:
+
+    Ajuste os componentes de cores azul e verde para 0 (zero);
+    Realce os tons em vermelho, multiplicando-os por 10.
+
+Escreva o código-fonte que realiza os passos acima para desvendar o que havia na imagem original. Quando conseguir desvendar o enigma, assinale a alternativa que descreve o que apareceu na imagem:
+R: A paisagem do mar e montanha
+
+Q2: Desejamos clareá-la, multiplicando os componentes de cores de cada pixel por 30. Clique aqui e escreva, no código-fonte, dentro da estrutura de repetição for, as linhas de código que instruirão o computador a realizar essa tarefa:
+
+Quando você tiver realizado isso com sucesso, será possível observar o que há na imagem. Assinale a alternativa que descreve o que apareceu na imagem:
+R: Um homem observando uma árvore
+
+Mód 4 - If
+
+Q1: Analise a instrução if a seguir:
+
+if( pixel.getRed() ==162&&pixel. getGreen() ==162 &&pixel.getBlue() > 200 ){ }
+
+Assinale a alternativa que informa as características dos pixels que serão “selecionados” por este if. Se necessário, clique aqui e use os controles deslizantes do simulador RGB para chegar a sua resposta.
+R: Pixels em tonalidades de azul
+
+Q2: Suponha que desejemos escrever uma linha de instrução if que selecione os pixels da região em azul para, então, torná-los amarelos.
+
+Assinale a alternativa que contém o código correto para alcançar essa tarefa.
+R: if( pixel.getRed()==0 &amp;&amp;pixel.getGreen()==0 &amp;&amp;pixel.getBlue()==255 ){<br>
+                      pixel.setRed(255);<br>pixel.setGreen(255);<br>pixel.setBlue(0);<br>}
+
+Exercícios
+Q1: Entre as técnicas de programação para manipulação de imagens digitais, há uma que permite instruir que o computador selecione pixels sobre os quais determinadas instruções foram executadas. Por exemplo, selecionamos pixels em tons de amarelo e, para esses pixels, instruímos o computador alterar sua tonalidade de cor.
+
+Assinale a alternativa cuja instrução reflete essa ideia de escolher pixels que serão afetados por um conjunto de instruções:
+R:  if( pixel.getRed() > 130 )
+
+Q2: Observe o código a seguir, que está manipulando uma imagem totalmente branca:
+
+Se o computador executar as linhas de código da parte 1 e, segundos depois, as linhas de código da parte 2, qual será o efeito observado nas imagens apresentadas na tela?
+
+(0,0) (0,1) (0,0)
+R: Um pixel preto se deslocando pra baixo
+
+Q3: Suponha que os passos a seguir tenham como objetivo a cor dos pixels de uma imagem:
+
+    Carregar a imagem na memória para que seja fosse trabalhada: escrevemos uma linha de código que carrega a imagem.
+    Automaticamente processar, um a um, todos os pixels (centenas de milhares) de uma imagem: usamos a estrutura for para instruir o computador a repetir as instruções para cada pixel da imagem.
+    Selecionar quais pixels desejamos realizar ajuste de cores: escrevemos a estrutura if para que o computador realizasse testes e, conforme resultado, verdadeiro ou falso, executasse ou não as instruções de manipulação de cores do pixel.
+    Alterar a cor de um pixel: escrevemos linhas de código para alterar os componentes RGB (Vermelho, Verde e Azul) para alterar a cor de um pixel, conforme nosso objetivo.
+    Imprimir o resultado na tela: escrevemos a função print para que a resultado final das instruções (a imagem manipulada) fosse apresentado na tela.
+
+Este é um exemplo da habilidade de pensamento computacional denominada:
+R: Decomposição
+
+Q4: Entre as técnicas de programação para manipulação de imagens digitais, há uma que permite instruir que o computador repita uma sequência de instruções, como, por exemplo, para todos os pixels de uma imagem.
+
+Assinale a alternativa cuja instrução reflete essa ideia:
+R: For
+
+Q5: Laranja em RGB
+R: (120,80,0)

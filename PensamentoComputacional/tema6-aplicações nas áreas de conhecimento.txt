@@ -1,0 +1,32 @@
+Mód 1
+Decomposição
+Decompor problema em itens menores e ir fazendo cada etapa
+
+A decomposição busca dividir um problema ou sistema complexo em partes menores, mais fáceis de compreender, gerenciar e resolver. Quando deixamos de olhar para um sistema como um todo e estudamos cada uma de suas peças menores, fica mais simples de compreender e buscar a solução desejada.
+
+Abstração
+Abstrair informações que não são relevantes
+
+Buscamos desconsiderar informações ou detalhes que não sejam imprescindíveis para resolver nosso problema.
+
+Reconhecimento de padrões
+
+Padrões são semelhanças ou características que alguns dos problemas compartilham entre si. O reconhecimento dessas referências tem por objetivo aproveitar soluções já usadas no passado para lidar com uma nova dificuldade que seja suficientemente similar.
+
+Automatização por meio de algoritmos
+
+Em um exemplo de uma empresa aérea, podemos relacionar a criação de algoritmos aos documentos com instruções dadas a cada funcionário, onde ele acessa detalhes passo a passo dos procedimentos que deve seguir para a realização de seu trabalho.
+
+Q1:Sabemos que o computador representa uma tecnologia muito versátil e que não pode ser reduzida a uma única função. Por isso, compreender o conceito de pensamento computacional é fundamental para que não o confundamos com outras relações que o ser humano possa ter com o computador. Sobre esse conceito, avalie as afirmativas a seguir:
+
+I. Saber navegar pela internet ou mesmo enviar e receber e-mails caracteriza ações referentes ao pensamento computacional.
+
+II. Por se tratar de uma tarefa mais complexa do que mera pesquisa na rede, a publicação de conteúdo na web caracteriza-se como pensamento computacional.
+
+III. É no aumento real da condição cognitiva e operacional do ser humano que se encontra o pensamento computacional.
+
+Está correto o que se afirma em
+R: III
+
+Q2: Podemos afirmar que, entre os quatro pilares do pensamento computacional, existe um principal?
+R: Não, todos os 4 pilares (Decomposição, Abstração, Reconhecimento de Padrões e Automatização por meio de algoritmos) são importantes
