@@ -1,0 +1,155 @@
+Programming languages have evolved over time, with each generation building on the advances and limitations of the previous ones. Here is a brief overview of the different generations of programming languages:
+
+    First-generation languages (1GL): Also known as machine languages, these are the lowest-level programming languages that are directly executable by a computer's CPU. They consist of binary code, which represents machine-level instructions. First-generation languages are difficult to read and write, and are rarely used today.
+
+    Second-generation languages (2GL): Also known as assembly languages, these are low-level programming languages that use symbolic representations of machine-level instructions. Assembly languages are easier to read and write than machine languages, but are still specific to a particular hardware architecture.
+
+    Third-generation languages (3GL): These are high-level programming languages that use structured syntax and human-readable code to express complex algorithms and data structures. Examples of third-generation languages include C, C++, Java, Python, and Ruby. Third-generation languages are portable, meaning that they can be run on different hardware architectures with minimal modifications.
+
+    Fourth-generation languages (4GL): These are domain-specific languages that are designed to simplify the development of specific types of applications, such as database management systems, enterprise resource planning software, and report generators. 4GLs are often used to build business applications, and typically have a visual interface that allows developers to drag and drop components to create workflows.
+
+    Fifth-generation languages (5GL): These are high-level programming languages that use artificial intelligence and natural language processing to enable non-programmers to create software. 5GLs are still in development and are not widely used today.
+
+Q1:  I. Linguagem Assembly é a nativa dos computadores.
+II. Uma Linguagem deve ser compatível única e exclusivamente com o hardware a que se propôs a atender.
+III. A abstração traz facilidades ao programador que cada vez menos precisa conhecer o ambiente onde a linguagem opera (composto por sistema operacional e hardware).
+IV. Um comando em uma linguagem de alto nível faz mais que uma operação primária do hardware.
+Com base em sua análise, marque a opção que apresenta apenas as assertivas corretas.
+R: III e IV
+
+Q2: Relacione a coluna A, na qual temos as gerações das linguagens de programação com a coluna B, em que temos as características das gerações de linguagens:
+
+A – Gerações
+
+1 – 1ª geração
+2 – 3ª geração
+3 – 4ª geração
+4 – 2ª geração
+
+B – Características das gerações
+
+a – Linguagem de alto nível
+b – Linguagem Assembly
+c – Linguagem de máquina
+d – Linguagens não procedimentais
+R: 1-c 4-b 2-a 3-c
+
+
+Legibilidade
+Um dos critérios mais relevantes é a “facilidade com que os programas podem ser lidos e entendidos” pelas pessoas que não necessariamente participaram do desenvolvimento.
+
+Facilidade de escrita
+O quão facilmente uma linguagem pode ser usada para desenvolver programas para o domínio do problema escolhido.
+
+Confiabilidade
+Um programa é dito confiável se ele se comporta conforme a sua especificação, repetidas vezes.
+
+Custo
+O custo final de uma linguagem de programação é em função de muitas de suas propriedades e características.
+
+Q1: Dos domínios de programação apresentados na aula, quais devem considerar, necessariamente, a arquitetura cliente-servidor?
+R: Aplicacoes web e modible
+
+Q2: Um dos critérios mais relevantes na avaliação de linguagens de programação diz respeito à facilidade com que os programas podem ser lidos. Estamos falando de qual critério?
+R: Legibilidade
+
+Mód 3
+
+    Programação Imperativa: É o paradigma mais comum, que se concentra em como o programa deve ser executado, passo a passo. Ele usa instruções como "if", "else", "while" e "for" para controlar o fluxo do programa e alterar o estado de variáveis.
+
+    Programação Funcional: Neste paradigma, o foco está nas funções como elementos principais da programação. As funções são tratadas como objetos de primeira classe e podem ser passadas como argumentos para outras funções ou retornadas como valores. O objetivo é escrever programas que sejam compostos de funções independentes e que não tenham efeitos colaterais.
+
+    Programação Orientada a Objetos: Neste paradigma, a programação é baseada na ideia de objetos, que contêm dados e métodos. Os objetos podem interagir entre si, trocando mensagens e realizando tarefas específicas. É um paradigma que se concentra na reutilização de código e na organização de programas em módulos.
+
+    Programação Declarativa: Este paradigma descreve o que o programa deve fazer, em vez de como ele deve fazê-lo. Em vez de dar instruções para o programa, o programador declara as relações entre os dados e as regras que definem como os dados devem ser manipulados.
+
+    Programação Lógica: Este paradigma é baseado em um conjunto de regras lógicas que são usadas para resolver problemas. Os programas são escritos em termos de fatos e regras, e o computador é capaz de inferir soluções para problemas complexos a partir desses fatos e regras.
+
+    Programação Concorrente: Neste paradigma, o programa é projetado para executar várias tarefas simultaneamente. Os programadores precisam lidar com problemas de sincronização e comunicação entre os threads do programa.
+
+    Programação Reativa: Este paradigma é usado para desenvolver aplicativos que respondem a eventos em tempo real. Ele se concentra em como o sistema reage a estímulos externos, como entradas de usuários e mensagens de rede.
+
+Q1:  As linguagens de programação podem se enquadrar em um ou vários paradigmas, nos quais a linguagem tem uma grande flexibilidade e potencial de aproveitamento. Nesse contexto, Python é uma linguagem:
+R: Multiparadigma
+
+Q2: Relacione a coluna A, em que temos paradigmas das linguagens de programação com a coluna B, em que temos as características dos paradigmas de linguagens:
+
+A – Paradigmas
+1 – Estruturado
+2 – Orientado a objeto
+3 – Concorrente
+4 – Funcional
+	
+
+B – Características dos paradigmas
+a – Fomenta a reusabilidade pelos mecanismos de herança e polimorfismo
+b – Desenvolver programas usando três tipos de estruturas: sequenciais, condicionais e repetição
+c – Lisp é a linguagem mais significativa desse paradigma
+d – Processos executam simultaneamente e concorrem aos recursos de hardware
+
+R: 1-b, 2-a, 3-d, 4-c
+
+Mód 4
+
+    Análise léxica: A primeira fase é a análise léxica, também conhecida como scanner. Nesta fase, o código fonte é dividido em tokens ou símbolos, como palavras reservadas, identificadores, operadores e valores literais. Esses tokens são armazenados em uma tabela de símbolos.
+
+    Análise sintática: A próxima fase é a análise sintática, também conhecida como parser. Nesta fase, os tokens são organizados em uma árvore de análise sintática ou árvore de sintaxe abstrata (AST), que representa a estrutura do programa em termos de sua sintaxe.
+
+    Análise semântica: A terceira fase é a análise semântica. Nesta fase, o compilador verifica se o programa está correto em termos de semântica, ou seja, se as operações e expressões fazem sentido de acordo com as regras da linguagem de programação. Por exemplo, o compilador verifica se as variáveis são declaradas antes de serem usadas e se as expressões têm tipos compatíveis.
+
+    Geração de código intermediário: A quarta fase é a geração de código intermediário. Nesta fase, o compilador gera um código intermediário, que é uma representação do programa em um nível mais baixo de abstração do que o código fonte, mas ainda não é código de máquina.
+
+    Otimização de código: A quinta fase é a otimização de código. Nesta fase, o compilador analisa o código intermediário e faz modificações para melhorar o desempenho do programa, como eliminar código redundante ou reorganizar operações para minimizar o tempo de execução.
+
+    Geração de código de máquina: A sexta e última fase é a geração de código de máquina. Nesta fase, o compilador traduz o código intermediário em código de máquina, que é executável diretamente pelo processador do computador.
+
+    Q1: Como se chamam os dois processos de conversão de linguagens de alto nível em linguagens inteligíveis pelo computador?
+    R: Tradução e interpretação.
+
+
+Q2: I. O compilador analisa o código-fonte e o converte para um executável.
+II. O montador traduz o código Assembly para o código de máquina intermediário (código objeto), que é executável pelo computador.
+III. O carregador é que torna o código-objeto em relocável.
+IV. O ligador liga o código-objeto relocável com as rotinas. Essa ligação gera o código executável. 
+R:
+I. Falso. O correto é: o compilador analisa o código-fonte o converte para um código Assembly.
+II. Falso. O correto é: o montador traduz o código Assembly para o código de máquina intermediário (código-objeto), que não é executável pelo computador.
+III. Verdadeiro. O carregador é responsável pela relocação do código-objeto.
+IV. Verdadeiro. O ligador conecta o objeto relocável com as chamadas às rotinas externas.
+
+Exercícios
+
+Q1: No que se refere a classificação de linguagens de programação por nível e gerações, avalie as assertivas a seguir
+
+I - As linguagens de 1ª e 2ª gerações, são classificadas como baixo nível
+
+II - As linguagens de 3ª geração são classificadas como alto nível
+
+III - As linguagens de 1ª e 2ª gerações são, respectivamente, Assembly e linguagem de maquina
+
+IV - SQL é uma linguagem de 4ª geração
+
+Com base em sua analise assinale a opção que apresenta APENAS as assertivas corretas
+R: I, II e IV
+
+Q2: Como se chama o processo de conversão de linguagens onde não é gerado código executável e o programa roda a medida que vai sendo convertido.
+R: interpretação
+
+Q3: Qual das linguagens abaixo possui nenhuma abstração
+R: linguagem de máquina
+
+Q4: Assinale o grupo de linguagens que são de alto nível e atendem as características do paradigma Orientado a objeto
+R: Java, C++, Python e Smalltalk
+
+Q5: No que se refere a programação de sistemas, avalie as assertivas  a seguir?
+
+I - A programação de sistemas, carece de linguagens que acesse, diretamente, o hardware e seus componentes.
+
+II - Exemplos de uso: software básico, como sistemas operacionais, tradutores e interpretadores de linguagens de programação.
+
+III - As principais linguagens usadas são: Pascal, Java e Ruby.
+
+IV - Antes das linguagens de alto nível, a programação de sistemas era desenvolvida em Assembly.
+
+Com base em sua análise, assinale a ÚNICA opção que apresenta APENAS as assertivas corretas
+R: I, II e IV
