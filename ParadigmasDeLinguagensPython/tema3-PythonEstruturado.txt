@@ -1,0 +1,19 @@
+Mód 1 Estruturas e repetição em Python
+
+Q1:  
+s = 0
+for i in range(5):
+    s += 3*i
+print(s)
+R: 30
+
+Q2:
+s = 0
+ a = 1
+ while s < 5:
+      s = 3*a
+      a += 1
+      print(s)
+R: 3 6
+
+Mód 3 Conceitos de subprogramas e a sua utilização em Python

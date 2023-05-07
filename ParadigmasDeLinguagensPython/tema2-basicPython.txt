@@ -32,3 +32,57 @@ b = ['4'] * 4
 len(b)
  A saída correta correspondente às linhas 2 e 4 do código é 
 R: 2 e 4
+
+Mód 4
+Q1: a=input("XXX")
+provoca:
+R: Um prompt no dispositivo de saida e a leitura de um valor que eh armazenado na variavel 'a'
+
+Q2: L = [1,2,3,4,5,6,7,8]
+print L[::-1]
+R: [8,7,6,5,4,3,2,1]
+
+Exécicio:
+Q1: As estruturas de dados são responsáveis por organizar e armazenar os dados de forma eficiente, criando meios para o usuário manuseá-los. Estruturas amplamente utilizadas e conhecidas são as pilhas, listas e filas. Com relação a Algoritmos e Estrutura de Dados, dadas as afirmações abaixo, assinale a alternativa CORRETA:
+R: Em comandos condicionais ou de repetição, a separação de blocos de código em Python é feita utilizando a indentação.
+
+Python é uma linguagem interpretada que suporta programação orientada a objetos. No Python, não é necessário declarar uma variável antes de utilizá-la e a indentação do código é fundamental entre os blocos para o seu correto funcionamento
+
+Q2: Sobre a linguagem Python, afirma-se:
+
+I - É uma linguagem com suporte à orientação a objetos e à herança múltipla.
+
+II - É uma linguagem em que a indentação (indent) faz parte da sintaxe.
+
+III - Possui uma implementação de orientação a objetos em que todos os atributos são, obrigatoriamente, privados.
+
+IV - É uma linguagem que possui tipagem estática.
+R: I e II
+
+Q3: Lista = ["cachorro", "hamster", ["pato", "galinha"], "gato"]
+print(lista[3][2])
+R: t
+
+Q4: Considere o seguinte fragmento de código-fonte escrito na linguagem Python:
+
+def foo(a):
+
+   return a + a + a
+
+b = 1
+
+foo(b)
+
+foo(b)
+
+foo(b)
+
+print(b)
+R: 1
+
+Q5: Considere a seguinte expressão:
+
+        (True + 2)**2
+
+Utilizando Python para avaliar a expressão, é correto afirmar que:
+R: 9
