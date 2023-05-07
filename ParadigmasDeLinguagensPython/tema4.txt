@@ -1,0 +1,7 @@
+Q1: a=input("XXX")
+provoca:
+R: Um prompt no dispositivo de saida e a leitura de um valor que eh armazenado na variavel 'a'
+
+Q2: L = [1,2,3,4,5,6,7,8]
+print L[::-1]
+R: [8,7,6,5,4,3,2,1]
