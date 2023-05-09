@@ -17,3 +17,32 @@ s = 0
 R: 3 6
 
 Mód 3 Conceitos de subprogramas e a sua utilização em Python
+
+Procedimentos
+São aqueles que não retornam valores.
+
+Funções
+São aquelas que retornam valores.
+
+Q1:
+def func1(x):
+     x = 10
+     print(x)
+
+
+x = 0
+print(x)
+func1(x)
+print(x)
+R: 0 10 0
+A variável x da linha 6 é global. Mas, como existe outra variável com o mesmo nome dentro da função func1() – na linha 2, apenas dentro da função func1(), x vale 10 –, chamamos essa variável de local. Assim, o print da linha 7 recebe o valor da variável global (0). A execução da linha 8 chama a função func1(), que imprime o valor de x válido dentro dela (10). Em seguida, a execução do programa sai da função func1() e o print da linha 9 volta a enxergar a variável global x, cujo valor é 0.
+
+Q2:
+def rec(n):
+     if n < 2:
+          return rec(n - 1)
+
+
+print(rec(1))
+R: A função não tem parada. Ocorrerá um erro de execução.
+A função é recursiva, mas não apresenta parada. Ao ser chamada com o parâmetro 1, o if da linha 2 tem condição verdadeira. Então ocorre a chamada a rec(0). Mas rec(0) não é definido; assim, ocorrerá a chamada a rec(-1) - e assim sucessivamente.
