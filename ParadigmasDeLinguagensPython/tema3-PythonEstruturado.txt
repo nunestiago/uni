@@ -46,3 +46,96 @@ def rec(n):
 print(rec(1))
 R: A função não tem parada. Ocorrerá um erro de execução.
 A função é recursiva, mas não apresenta parada. Ao ser chamada com o parâmetro 1, o if da linha 2 tem condição verdadeira. Então ocorre a chamada a rec(0). Mas rec(0) não é definido; assim, ocorrerá a chamada a rec(-1) - e assim sucessivamente.
+
+Mód 4 Bibliotecasa em Python
+
+Q1:
+Sabemos que é possível importar módulos e chamar funções desses módulos em Python. Considere o módulo math, que oferece diversas funções matemáticas. Uma dessas funções é a ceil(x), que retorna o menor inteiro maior ou igual a x. Suponha que um estudante queira usar uma variável n, que recebe o valor 5.9, e, em seguida, imprimir na tela o menor inteiro maior ou igual a ela. O código correto é:
+R:
+import math
+n=5.9
+print(math.ceil(n))
+
+Q2:
+Sobre a linguagem Python e sua biblioteca padrão, é correto afirmar que Python: 
+R:
+O módulo math não permite operações com números complexos.
+
+Mód 4 Eventos em Python
+
+Q1:
+ try:
+      num = eval(input("Entre com um número inteiro: "))
+      print(num)
+ except ValueError:
+      print("Mensagem 1")
+ except IndexError:
+      print("Mensagem 2")
+ except:
+      print("Mensagem 3")
+Suponha que, durante a execução, o usuário entre com a palavra “numero” quando solicitado. Assinale a opção que mostra o resultado imediato dessa ação.
+R: Mensagem 3
+
+Exercícios de fixação
+Q1:
+def Fatorial(n):
+     if (n == 0) or (n == 1):
+          return 1
+     else:
+          return n * (n-1) * (n - 2);
+R:
+O código deveria ser "return n * Fatorial(n-1)" na linha 5.
+
+Q2:
+Considere o seguinte trecho de um programa escrito em Python:
+
+       import math
+
+       print(sqrt(36))
+
+Qual será o resultado da execução desse programa?
+
+R: Ocorrerá erro porque a chamada correta deveria ser math.sqrt(36).
+
+Q3:
+Observe o código abaixo em Python.
+
+a, b = 0, 1
+
+while b < 10:
+
+  print (b)
+
+  a, b = b, a+b
+
+Após a execução, esse código gera a seguinte saída:
+R: 1 1 2 3 5 8
+
+Q4:
+def foo(n):
+     if n > 1:
+          return n * foo(n-1)
+     return n
+print(foo(4))
+R:
+24
+
+Q5:
+Considere o seguinte trecho de um programa escrito em Python:
+
+a = 0
+
+for i in range(30):
+    if a%2 == 0:
+        a += 1
+        continue
+    else:
+        if a%5 == 0:
+            break
+        else:
+            a += 3
+print(a)
+
+Assinale a opção que apresenta corretamente o que será impresso na tela.
+
+R: 5
