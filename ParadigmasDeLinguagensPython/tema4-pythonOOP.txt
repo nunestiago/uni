@@ -1,0 +1,32 @@
+Mód 1
+Objetos
+Um objeto é a representação computacional de um elemento ou processo do mundo real. Cada objeto possui suas características (informações) e uma série de operações (comportamento) que altera as suas características (estado do objeto).
+
+Atributos (Variáveis?)
+São propriedades do mundo real que descrevem um objeto. Cada objeto possui as respectivas propriedades desse mundo, as quais, por sua vez, possuem valores. A orientação a objetos define as propriedades como atributos. Já o conjunto de valores dos atributos de um objeto define o seu estado naquele momento (RUMBAUGH, 1994).
+
+
+Operações (função/método?)
+Uma operação é uma função ou transformação que pode ser aplicada a objetos ou dados pertencentes a um objeto. É importante dizer que todo objeto possui um conjunto de operações, as quais, aliás, podem ser chamadas por outros objetos com o propósito de colaborarem entre si.
+
+O conceito de encapsulamento
+Seu conceito consiste na separação dos aspectos externos (operações) de um objeto acessíveis a outros objetos, além de seus detalhes internos de implementação, que ficam ocultos dos demais objetos (RUMBAUGH, 1994). 
+
+Q1:
+Na programação orientada a objetos, há conceitos, como, por exemplo, herança e polimorfismo. Sobre esses conceitos, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).
+
+I. Para evitar código redundante, o paradigma de orientação a objetos oferece uma estrutura hierárquica e modular para a reutilização de código por meio de uma técnica conhecida como herança.
+
+II. A herança permite projetar classes genéricas que podem ser especializadas em classes mais particulares, etapa na qual as classes especializadas reutilizam o código das mais genéricas.
+
+III. Literalmente, “polimorfismo” significa “muitas formas”. No contexto e no projeto orientado a objetos, entretanto, ele refere-se à habilidade de uma variável de objeto assumir formas diferentes.
+
+IV. Polimorfismo permite que os atributos de uma classe não tenham acesso diretamente.
+R:
+I, II e III
+IV se trata de encapsulamento
+
+Q2:
+Os bancos são instituições que investem fortemente na área de tecnologia da informação, inclusive com a contratação de milhares de profissionais e a construção de grandes ambientes de datacenter. Por isso, é um domínio de conhecimento bastante importante e que deve ser utilizado como exemplo durante um curso de graduação. Sabendo disso, analise a seguinte situação em um sistema bancário: A ContaBancaria(CB) especializa as classes ItemSuportado (IS) e ItemSujeitoAJuros (ISJ) e generaliza as classes ContaCorrente (CC) e Poupança (PP). Nesse sentido, é correto afirmar que ocorre uma:
+R:
+herança múltipla de CB em relação à IS e ISJ
