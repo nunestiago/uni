@@ -17,3 +17,108 @@ print(resultado)
 
 R:
 16 
+
+Mód 2
+Q1:
+Observe as afirmativas e responda:
+
+I – É possível alcançar a concorrência em processadores de apenas um núcleo.
+II – O paralelismo é uma técnica para permitir executar várias operações ao mesmo tempo.
+III – Programas e processos têm a mesma definição.
+IV – As threads pertencem a um determinado processo.
+
+Das afirmativas anteriores, quais estão corretas?
+R:
+I, II e IV.
+
+Q2:
+# script processos.py
+from threading import Thread
+from multiprocessing import Process
+
+minha_lista = []
+
+def adiciona():
+    for i in range(100):
+        minha_lista.append(1)
+
+def main():
+    tarefas = []
+ 
+    for indice in range(10):
+        t = Thread(target=adiciona)
+        tarefas.append(t)
+        t.start()
+
+    for indice in range(10):
+        p = Process(target=adiciona)
+        tarefas.append(t)
+        p.start()
+
+    for tarefa in tarefas:
+        tarefa.join()
+
+    print(len(minha_lista))
+
+if __name__ == '__main__':
+    main()
+R:
+1000
+
+Mód 4
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/ola')
+def ola_mundo():
+    return "Olá,mundo"
+
+@app.route('/ola/<nome>')
+def hola_mundo(nome):
+    return "Olá, " + nome
+
+if __name__ == '__main__':
+    app.run()
+
+O que será apresentado no navegador se acessarmos a URL http://127.0.0.1:5000/ola/EAD? 
+
+R:
+Olá, EAD
+
+Q2:
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/ola', methods=['POST'])
+def ola_post():
+    return "Olá, GET"
+
+@app.route('/ola')
+def ola_get(nome="mundo"):
+    return "Olá, POST"
+
+if __name__ == '__main__':
+    app.run()
+
+R:
+Olá, POST
+
+Mód 4:
+Q1:
+De acordo com o processo de descoberta de conhecimento em base de dados (KDD) e analisando as assertivas a seguir, quais atividades podem fazer parte da etapa de pré-processamento?
+
+I. Coleta e Integração.
+II. Codificação.
+III. Construção de atributos.
+IV. Visualização dos dados.
+
+Agora, assinale a alternativa correta:
+R:
+I, III e III.
+
+Q2:
+Em algumas situações, precisamos transformar um atributo ou característica de uma amostra de categoria para um número. Qual o nome dessa atividade?
+R:
+Codificação
