@@ -1,0 +1,19 @@
+Q1:
+Observe as afirmativas relacionadas à programação funcional e responda.
+
+I - As funções puras sempre produzem o mesmo resultado quando passados os mesmos parâmetros.
+II - Dados imutáveis são aqueles nos quais seus valores podem ser alterados após a sua definição.
+III - Não se deve utilizar loops, mas composição de funções.
+IV - A programação funcional é um paradigma e um estilo de programação.
+
+Das afirmativas anteriores, quais são verdadeiras?
+R:
+I, III e IV.
+
+Q2:
+minha_funcao = lambda x: x ** 2
+resultado = minha_funcao(4)
+print(resultado)
+
+R:
+16 

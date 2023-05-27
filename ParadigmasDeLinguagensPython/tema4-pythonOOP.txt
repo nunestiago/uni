@@ -30,3 +30,69 @@ Q2:
 Os bancos são instituições que investem fortemente na área de tecnologia da informação, inclusive com a contratação de milhares de profissionais e a construção de grandes ambientes de datacenter. Por isso, é um domínio de conhecimento bastante importante e que deve ser utilizado como exemplo durante um curso de graduação. Sabendo disso, analise a seguinte situação em um sistema bancário: A ContaBancaria(CB) especializa as classes ItemSuportado (IS) e ItemSujeitoAJuros (ISJ) e generaliza as classes ContaCorrente (CC) e Poupança (PP). Nesse sentido, é correto afirmar que ocorre uma:
 R:
 herança múltipla de CB em relação à IS e ISJ
+
+Mód 2
+
+Q1:
+class ContaBancaria:
+  num_contas = 0
+  def__init__(self,clientes,numero,saldo):
+    self.agencia = agencia
+    self.numero = numero
+    self.saldo = saldo
+    ContaBancaria.num_contas += 1
+  def _del_(self):
+    ContaBancaria.num_contas -= 1
+  def depositar(self,valor):
+    self.saldo = self.valor + valor
+  def sacar(self, valor):
+    self.saldo = self.valor - valor
+  def consultarSaldo(Self):
+    return self.saldo
+
+R:
+A palavra "self" deve ser fornecida como argumento em todos os métodos públicos de instâncias. FALSO
+
+Q2:
+Qual é a diferença na utilização dos decorators @staticmethod e @classmethod?
+
+R:
+O decorator @staticmethod não recebe nenhum argumento, enquanto o @classmethod recebe a classe como argumento. Além disso o decorator @classmethod permite que o método acesse os atributos da classe, que são alterados na memória.
+
+Mód 3
+
+Q3:
+Sobre a linguagem de programação Python, marque a alternativa incorreta.
+
+Python suporta a maioria das técnicas da programação orientada a objetos.
+
+Python suporta e faz uso constante de tratamento de exceções como uma forma de testar condições de erro e outros eventos inesperados no programa.
+
+A linguagem Python permite a utilização do conceito de sobrecarga de métodos por meio do polimorfismo dos métodos.
+
+A separação de blocos de código em Phyton é feita utilizando a endentação de código.
+
+Python suporta o conceito de herança múltipla.
+
+R: A linguagem Python permite a utilização do conceito de sobrecarga de métodos por meio do polimorfismo dos métodos.
+
+Mód 4
+Q4:
+Em Python, como se pode trabalhar sempre com tipos objetos?
+R: 5.__add__(3)
+é realizada a soma seguindo a nota Python. A questão abrange o tratamento do Python em relação a todos os tipos a serem considerados objetos.
+
+Q5:
+Analisando as características da orientada a objetos de C++, Java e Python, considere as seguintes afirmações e, em seguida, escolha a(s) alternativa(s) correta(s):
+
+I. Em Java, é permitida a criação da herança múltipla de classes por meio das classes denominadas interfaces.
+
+II. Em Python, assim como em C++ e Java, existem os tipos primitivos e os objetos para serem utilizados pelos programas.
+
+III. Em Python, o encapsulamento não segue os princípios da orientação a objetos.
+R:
+III
+
+I falso. Em Java, a herança múltipla de classes não é permitida.
+
+II falso - É falso afirmar que Python possui tipos primitivos como em C++ e Java. Ao contrário dessas linguagens, Python trata todos os valores como objetos.
