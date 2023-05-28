@@ -1,0 +1,66 @@
+Q1:
+Podemos definir Hardware como todo equipamento fisicamente palpável da estrutura de um computador. Entre os elementos de hardware estudados, selecione a opção que indique o componente responsável efetivamente por executar instruções.
+R:
+CPU.
+		
+Q2:
+quantos Megabytes possui um Gigabyte?
+R:
+1024
+
+Q3:
+A fotogrametria digital tem como objetivo principal a reconstrução automática do espaço tridimensional, a partir de imagens bidimensionais. Sobre o tema, classifique como verdadeiro ou falso as afirmativas abaixo:
+
+( ) A imagem digital é uma matriz composta por células quadradas, chamadas pixels.
+
+( ) Em cada pixel, há somente uma coloração sólida, definida por um número digital.
+
+( ) Em uma imagem com 400 pixels de largura por 500 de altura, o total de pixels será: 400 + 500 = 900.
+
+Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+R:
+V, V, F
+
+Q4:
+Pensamento computacional é uma habilidade cognitiva que envolve a capacidade de resolver problemas, pensar de forma lógica e sistêmica, decompor problemas em partes menores, identificar padrões e criar soluções utilizando conceitos e técnicas da ciência da computação. O computador é capaz de representar digitalmente por meio de números uma imagem do mundo real ou orgânico. Para um computador representar digitalmente por meio de números uma imagem do mundo real ou orgânico consideramos uma habilidade chamada de:
+R:
+Abstração
+
+Q5:
+Suponha que os passos a seguir tenham como objetivo a cor dos pixels de uma imagem:
+
+    Carregar a imagem na memória para que seja trabalhada: escrevemos uma linha de código que carrega a imagem.
+    Automaticamente processar, um a um, todos os pixels (centenas de milhares) de uma imagem: usamos a estrutura for para instruir o computador a repetir as instruções para cada pixel da imagem.
+    Selecionar quais pixels desejamos realizar ajuste de cores: escrevemos a estrutura if para que o computador realizasse testes e, conforme resultado, verdadeiro ou falso, executasse ou não as instruções de manipulação de cores do pixel.
+    Alterar a cor de um pixel: escrevemos linhas de código para alterar os componentes RGB (Vermelho, Verde e Azul) para alterar a cor de um pixel, conforme nosso objetivo.
+    Imprimir o resultado na tela: escrevemos a função print para que o resultado final das instruções (a imagem manipulada) fosse apresentado na tela.
+
+Este é um exemplo da habilidade de pensamento computacional denominada:
+R: Decomposição
+
+Q6:
+A forma com que as empresas são administradas vem sofrendo alterações constantes. Sobre esse tema e o pensamento computacional, podemos afirmar que:
+R:
+Estão diretamente relacionados, pois, à medida que a tecnologia avança, os profissionais que atuam na empresa devem melhorar a forma de pensar.
+
+Q7:
+Os computadores são usados em uma ampla variedade de aplicações, incluindo processamento de texto, navegação na web, jogos, edição de vídeo, design gráfico e cálculo científico. Eles também são usados em muitas áreas da vida cotidiana, como compras online, bancos e serviços de saúde. Além disso, os computadores são fundamentais para a pesquisa e desenvolvimento de novas tecnologias. Essencialmente, o que é um algoritmo em um computador?
+R:
+Um algoritmo é uma série de instruções ou passos para solucionar um problema ou realizar uma tarefa.
+
+Q8:
+A memória do computador é capaz de armazenar diferentes tipos de dados. A forma como lidamos com esses dados depende da necessidade do programador e da linguagem por ele utilizada. Em computação, o que é uma string?
+R:
+
+Q9:
+Hardwares e Softwares são partes responsáveis pelo funcionamento que compõem um sistema computacional. Assinale a alternativa correta que indica um hardware e um software, respectivamente:
+R:
+Mouse e Editor de textos
+
+Q10:
+Marque as opções que descreve corretamente a relação entre humanos, código-fonte e código de máquina:
+R:
+Código de máquina é de difícil compreensão para humanos. Então, os programadores escrevem instruções usando uma linguagem de programação, e o compilador traduz as instruções fornecidas em um conjunto de instruções em linguagem de máquina.
+
+10 de 10
