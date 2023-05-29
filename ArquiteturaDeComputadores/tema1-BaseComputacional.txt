@@ -1,0 +1,44 @@
+Mód 1 - A evolução dos computadores
+
+Q1:
+Potentes, os computadores atuais podem ser levados até nossos bolsos, como é o caso dos celulares. Entretanto, em sua primeira versão, um computador ocupava uma sala inteira e pesava o equivalente a 30 carros. Para essa enorme evolução acontecer, diversas descobertas científicas e tecnológicas foram fundamentais.
+
+Assinale a alternativa que contém o conjunto de tecnologias desenvolvido na ordem cronológica correta para permitir o desenvolvimento dos computadores:
+R: Transistor, circuito integrado, microprocessador.
+
+Q2:
+Assim como a maioria dos avanços tecnológicos, os computadores foram construídos e desenvolvidos a partir de outras tecnologias que os precederam. Assinale a alternativa que não representa uma tecnologia precursora dos computadores:
+R: Transistor, pois é pós.
+
+Mód 2 - Sistema computacional
+
+Q1:
+Escolha a alternativa que, respectivamente, apresenta exemplos de software e de hardware em um sistema computacional: 
+R: Jogo de computador e placa de vídeo.
+
+Q2:
+Um sistema computacional precisa de um local para armazenar os dados e os programas que nele serão executados. Que elemento exerce essa função essencial?
+R: Memória principal.
+
+Mód 3 - O papel do sistema computacional
+Q1:
+Os sistemas operacionais modernos têm muitas responsabilidades na tarefa de gerir os recursos de um computador. Com isso, assinale a alternativa que lista as tarefas do sistema operacional.
+R: Escalonar processos, gerenciar memória e gerenciar dispositivos periféricos.
+
+Q2:
+Antes da carga do sistema operacional, um outro software é responsável por inicializar o computador e fazer as configurações e acessos ao disco necessários para o seu correto funcionamento. Esse software é chamado de:
+R: BIOS.
+
+Mód 4 - Comunicação em rede e sistema computacional
+
+Q1:
+Diversas tecnologias, desde cabos que conectam os computadores a protocolos de comunicação, são necessárias para o funcionamento da internet.
+
+Qual é o elemento responsável por determinar os caminhos e enviar os pacotes de dados entre as redes que compõem a internet?
+R: Roteador.
+
+Q2:
+Discutimos como a conexão de computadores em rede e o posterior surgimento da internet foram importantes para o desenvolvimento e a relevância da área da computação. Uma das principais tecnologias desenvolvidas na área foi a World Wide Web (WWW), muitas vezes confundida com a própria internet.
+
+Assinale a alternativa que apresenta o que é a WWW.
+R: Conjunto de páginas hospedadas em servidores e ligadas por conexões chamadas de links.
