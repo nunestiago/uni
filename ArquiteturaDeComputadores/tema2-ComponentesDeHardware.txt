@@ -1,1 +1,28 @@
 Mód 1 - Estrutura básica de um computador
+
+Q1:
+A sequência básica de execução de operações primitivas é a definição de:
+R:
+Ciclo de instruções
+
+As etapas básicas de um ciclo de instrução podem ser simplificadas para o acrônimo BDE: Buscar instrução na memória. Decodificar a operação a ser realizada e buscar operando, se houver. Executar a operação.
+
+Q2:
+Um sistema de computação (S.C.) possui um processador que endereça 4 Mega (M) de endereços de memória principal no máximo. Qual é a largura de seu barramento de endereços (BE) em bits?
+R: 22
+
+Unidade 	Valor em potência de 2 	Valor unitário 	Valor em potência de 10 	Valor unitário
+1k (quilo) 	2^10 	1024 	103 	1.000
+1M (mega) 	2^20 	1.048.576 	106 	1.000.000
+1G (giga) 	2^30 	1.073.741.824 	109 	1.000.000.000
+1T (tera) 	2^40 	1.099.511.627.776 	1012 	1.000.000.000.000
+
+1mega = 2^20
+4 = 2^2
+2^20 * 2^2 = 2^22
+
+Mód 2 - Subsistemas de processamento, memória e entrada e saída
+tema 2 - 2/4
+Q1: 
+
+
