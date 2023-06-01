@@ -22,7 +22,42 @@ Unidade 	Valor em potência de 2 	Valor unitário 	Valor em potência de 10 	Val
 2^20 * 2^2 = 2^22
 
 Mód 2 - Subsistemas de processamento, memória e entrada e saída
-tema 2 - 2/4
-Q1: 
+Q1: Qual é e em que área da UCP (processador) se localiza o registrador cujo conteúdo controla a sequência de processamento das instruções de um programa?
 
+R: Contador de instrução - CI
+O registrador é o CI, Contador de Instruções, que armazena o endereço da próxima instrução a ser executada. Fica localizado na área de controle.
 
+Q2:
+Qual é a função dos registradores de dados?
+
+R:
+Armazenar os dados a serem manipulados pelas unidades de cálculo
+
+Mód 3 - Sistema operacionaa
+Q1:
+Na literatura, encontram-se diversas classificações de sistemas operacionais (SO). Uma delas classifica os SO nos seguintes tipos: Em lotes (batch), de tempo compartilhado (time sharing) e de tempo real (real time). Sobre esse assunto, considere as assertivas abaixo:
+
+I. Sistemas operacionais de tempo compartilhado e tempo real são dependentes do tempo de execução de cada programa, porém se baseiam em diferentes parâmetros de eficiência.
+
+II. Sistemas do tipo lote (batch) podem ser multitarefa.
+
+III. Sistemas operacionais de tempo real são mais adequados para executar rotinas do tipo lote (batch), se for desejado obter resultados no tempo mais curto possível.
+
+IV. Ao executar um programa do tipo batch, um sistema operacional de tempo compartilhado se comporta como um sistema monotarefa, desativando as rotinas de alternância de programas em execução.
+
+Estão corretas as assertivas:
+
+R:
+II.
+
+Sistemas de tempo compartilhado permitem que múltiplos usuários remotos executem suas tarefas simultaneamente no computador. Sistemas de tempo real possuem o tempo como parâmetro fundamental.
+
+III: O sistema de processamento em lote (batch) processa tarefas de rotina sem a presença interativa do usuário, independentemente do tipo de sistema operacional que o executa.
+
+IV: A afirmação da execução do sistema operacional de tempo compartilhado não procede.
+
+Q2:
+A ilustração gráfica a seguir representa um sistema que utiliza uma técnica na qual as solicitações de entrada ou saída de dados e a execução de uma única tarefa devem ser executadas pela CPU em alternância de tempo. Apenas uma tarefa pode utilizar os recursos disponíveis até que ela seja encerrada, dando lugar a outra tarefa.
+
+R:
+Monoprogramação
