@@ -1,4 +1,4 @@
-Mód 1 - Estrutura básica de um computador
+AMód 1 - Estrutura básica de um computador
 
 Q1:
 A sequência básica de execução de operações primitivas é a definição de:
@@ -25,6 +25,7 @@ Mód 2 - Subsistemas de processamento, memória e entrada e saída
 Q1: Qual é e em que área da UCP (processador) se localiza o registrador cujo conteúdo controla a sequência de processamento das instruções de um programa?
 
 R: Contador de instrução - CI
+
 O registrador é o CI, Contador de Instruções, que armazena o endereço da próxima instrução a ser executada. Fica localizado na área de controle.
 
 Q2:
@@ -61,3 +62,6 @@ A ilustração gráfica a seguir representa um sistema que utiliza uma técnica 
 
 R:
 Monoprogramação
+
+Mód 4 - Lógica digital
+Parei em NOR
