@@ -34,7 +34,7 @@ Qual é a função dos registradores de dados?
 R:
 Armazenar os dados a serem manipulados pelas unidades de cálculo
 
-Mód 3 - Sistema operacionaa
+Mód 3 - Sistema operacionais
 Q1:
 Na literatura, encontram-se diversas classificações de sistemas operacionais (SO). Uma delas classifica os SO nos seguintes tipos: Em lotes (batch), de tempo compartilhado (time sharing) e de tempo real (real time). Sobre esse assunto, considere as assertivas abaixo:
 
@@ -62,6 +62,3 @@ A ilustração gráfica a seguir representa um sistema que utiliza uma técnica 
 
 R:
 Monoprogramação
-
-Mód 4 - Lógica digital
-Parei em NOR

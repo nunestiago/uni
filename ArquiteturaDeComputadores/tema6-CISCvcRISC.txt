@@ -1,0 +1,38 @@
+Mód 1
+Q1:
+A abordagem CISC para arquitetura do processador possui diversas características e peculiaridades, como a combinação de operações e formas de armazenamento, com o objetivo de aperfeiçoar a execução das instruções.
+
+Assinale a alternativa em que as operações, quando presentes como etapas da mesma instrução, permitem caracterizar a presença de uma abordagem CISC.
+
+R:
+Operações aritméticas na ULA e armazenamento na memória.
+A abordagem CISC tem como principal característica a execução de operações complexas, como a combinação de operações aritméticas e o acesso direto à memória (para busca ou escrita de dados). A única opção que garante que tal operação complexa está acontecendo é a letra A , pois as demais podem ocorrer em operações simples.
+
+Q2:
+Os processadores CISC possuem várias características que, quando agregadas, permitem classificá-los dessa forma.
+
+Assinale a opção que não representa uma característica de processadores CISC.
+
+I - Múltiplos tipos de endereçamento.
+II - Conjunto de muitas instruções.
+III - Unidade de controle simples.
+IV - Pipeline com poucos estágios.
+V - Unidade de controle hardwired, isto é, não há microprograma.
+
+R:
+III
+Por conter muitas instruções possíveis e diferentes, a Unidade de Controle CISC é complexa. Ela precisa decodificar qual instrução será executada e gerar todos os seus sinais de controle.
+
+Mód 2
+Q1:
+A abordagem RISC para a arquitetura do processador tem diversas características e peculiaridades. Assinale a alternativa que contém duas dessas características.
+
+R:
+Endereçamento tipo R-R e pequeno conjunto de instruções.
+A abordagem RISC tem como principais características: pequeno conjunto de instruções, endereçamento do tipo R-R (exceto por LOAD e STORE), pipeline de poucos estágios e grande quantidade de registradores.
+
+Q2:
+Um processador RISC busca implementar um pipeline pequeno e bastante eficiente. Com relação a essa afirmação, podemos definir como pipeline ideal aquele que teoricamente consiga executar:
+
+R:
+1 instrução por ciclo de clock.

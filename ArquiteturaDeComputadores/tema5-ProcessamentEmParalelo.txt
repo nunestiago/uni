@@ -1,0 +1,82 @@
+Mód 1 - Computação de alto desempenho por meio do processamento em paralelo
+Q1:
+Considere um processador com pipeline ideal de 4 estágios, em que cada estágio ocupa um ciclo de processador. A execução de um programa com 9 instruções, utilizando os 4 estágios, levará
+
+R:
+12 ciclos de processador.
+Veja como o cálculo foi feito:
+
+Como existem 4 estágios, cada instrução demandará percorrer 4 ciclos para ser executada e cada estágio ocupa 1 ciclo.
+
+NI = número da instrução
+Assim, serão necessários 12 ciclos para que a nona instrução seja executada completamente.
+
+Q2:
+Com os avanços tecnológicos, tornou-se possível a construção de máquinas multiprocessadas para atender às demandas em função do aumento do desempenho. Essa arquitetura nos possibilitou compreender a importância por soluções paralelizáveis, pois
+
+I- a tarefa será realizada no mesmo tempo.
+II- o tempo de conclusão da tarefa será reduzido.
+III- minimizou o custo na construção de máquinas pessoais.
+
+Considerando as afirmações acima, são verdadeira(s)
+
+R:
+I e II.
+Quais mais cores, mais caro o processador.
+
+Mód 2 - Tipos de organizações de processadores paralelos
+Q1:
+Em relação ao multiprocessamento simétrico (SMP), é correto afirmar:
+
+I. Os processadores compartilham a mesma memória principal, mas cada um deles usa os seus próprios recursos de E/S;
+II. O termo “simétrico” faz alusão ao fato de que todos os processadores executam as mesmas funções;
+III. Existem, no mínimo, dois processadores com capacidades semelhantes.
+
+R:
+I e II
+Em um sistema SMP todos os processadores desempenham as mesmas funções, sendo essa a razão desse multiprocessamento ser chamado de simétrico. Além disso, o número de processadores semelhantes, ou seja, com capacidades que podem ser comparadas, é de dois ou mais processadores.
+
+Portanto, as afirmações II e III estão corretas. Por outro lado, a afirmação I está incorreta, pois tanto a memória principal quanto os dispositivos de E/S são compartilhados pelos processadores em um sistema de multiprocessamento simétrico (SMP). Assim, a alternativa correta é a D. 
+
+Q2:
+Quanto à comparação entre organizações de acesso uniforme à memória (UMA) e acesso não uniforme à memória (NUMA), pode-se afirmar:
+
+I. No UMA, a uniformidade do acesso à memória é garantida em função do acesso à memória por meio de um barramento comum compartilhado por todos os processadores.
+II. No NUMA, há barramentos independentes entre os módulos de memória e os processadores. Além disso, poderá haver um barramento compartilhado para permitir a comunicação entre os processadores.
+III. Tanto no UMA como no NUMA, não haverá limitações em função da taxa de processadores nessas estruturas.
+
+R:
+I e II
+As alternativas I e II estão especificadas na própria definição dessas organizações. Entretanto, na afirmativa III haverá problemas de escala em ambas as soluções: incialmente na UMA, por se tratar de um barramento único compartilhado, o aumento de processadores introduzirá uma maior complexidade no controle de fluxo de comunicação entre os processadores e, consequentemente, o barramento tenderá a saturar mais facilmente do que no NUMA.
+
+Mód 3 - Desempenho do hardware
+Q1:
+Dentre as alternativas abaixo, qual delas não é considerada uma das principais variáveis na organização multicore?
+
+I - Número de cores processadores no chip
+II - Número de níveis de memória cache
+III - Cache L1 compartilhada
+IV - Quantidade de memória cache compartilhada
+V - O emprego do multithreading simultâneo
+
+R: III
+
+Q2:
+Considere os termos abaixo e relacione-os aos respectivos significados:
+
+I. Simultaneous Multiprocessing (SMP)
+II. Multithreading
+III. Multithreading simultâneo SMT
+IV. Multicore
+
+A. Processador possui a capacidade de executar mais de uma thread no mesmo instante.
+B. Técnica que permite explorar TLP (paralelismo a nível de threads) e ILP (paralelismo a nível de instrução).
+C. Múltiplos núcleos de execução em um processador.
+D. Arquitetura que permite a mais de um processador compartilhar recursos de memória, discos e rodar no mesmo SO.
+
+R:
+I - D, II - B, III - A, IV - C
+I- Simultaneous Multiprocessing (SMP) -> D – arquitetura que permite a mais de um processador compartilhar recursos de memória, discos e rodar no mesmo SO.
+II- Multithreading -> A – processador possui a capacidade de executar mais de uma thread no mesmo instante.
+III- Multithreading simultâneo SMT -> B – técnica que permite explorar TLP (paralelismo a nível de threads) e ILP (paralelismo a nível de instrução).
+IV- Multicore -> C – Múltiplos núcleos de execução em um processador.
