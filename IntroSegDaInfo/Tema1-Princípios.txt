@@ -1,0 +1,40 @@
+Mód1:
+Q1:
+(2019 - Instituto UniFil - Prefeitura de Cambé/PR - psicólogo) A segurança da informação está relacionada à proteção de um conjunto de dados no sentido de preservar os valores que possuem para um indivíduo ou uma organização. O conceito se aplica a todos os aspectos de proteção de informações e dados. O conceito de segurança informática ou segurança de computadores está intimamente relacionado com ele, incluindo não apenas a segurança dos dados/informação, mas também a dos sistemas em si. Assinale a alternativa que não representa um dos princípios da segurança da informação.
+
+R:
+Permutabilidade
+
+Os principais pilares da segurança da informação são comumente conhecidos como a Tríade da Segurança da Informação, e consistem em:
+
+    Confidencialidade: A informação não deve ser acessível a indivíduos, entidades ou processos não autorizados. Isso significa que apenas as pessoas ou sistemas que têm permissão para acessar certas informações devem ser capazes de fazê-lo.
+
+    Integridade: A informação deve ser mantida intacta, completa e precisa. Isso significa que as informações não devem ser alteradas de maneira inapropriada, seja intencionalmente por pessoas mal-intencionadas, seja acidentalmente por falhas no sistema.
+
+    Disponibilidade: A informação deve estar disponível quando necessária. Isso significa que os sistemas e serviços que contêm informações importantes devem estar operacionais e acessíveis quando necessário.
+
+Além disso, alguns profissionais de segurança da informação também consideram outros princípios importantes, como:
+
+    Autenticidade: A autenticidade refere-se à verificação da identidade de uma pessoa ou sistema. É importante saber que a pessoa ou sistema com o qual você está interagindo é realmente quem ou o que afirma ser.
+
+    Não repúdio: O não repúdio é a garantia de que uma parte não pode negar a autenticidade de algo. Por exemplo, em uma transação digital, o não repúdio impede que uma parte negue que enviou uma mensagem ou realizou uma ação.
+
+    Responsabilidade (Accountability): A responsabilidade refere-se à capacidade de rastrear ações a indivíduos específicos para responsabilizá-los por suas ações.
+
+Todos estes são componentes importantes para garantir que as informações estejam seguras e protegidas.
+
+Q2:
+(2019 - IDECAN - IF-AM - bibliotecário documentalista) A segurança da informação está baseada em três pilares: confidencialidade, integridade e disponibilidade. Com base nessa informação, analise as afirmativas a seguir.
+
+I. Garantir o acesso por pessoa ou dispositivo devidamente autorizado a todo hardware, software e dados sempre que necessário.
+
+II. As informações devem ser armazenadas da forma como foram criadas, de modo que não sejamcorrompidas ou danificadas.
+
+III. As informações não poderão ser vistas ou utilizadas sem as devidas autorizações de acesso por pessoas ou dispositivos.
+
+Assinale a alternativa que apresente a ordem correta de associação com os três pilares da segurança da informação.
+
+R:
+I - Disponibilidade
+II - Integridade
+III - Confidencialidade
