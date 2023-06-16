@@ -2,6 +2,7 @@ Mód 1
 Q1:
 A abordagem CISC para arquitetura do processador possui diversas características e peculiaridades, como a combinação de operações e formas de armazenamento, com o objetivo de aperfeiçoar a execução das instruções.
 
+
 Assinale a alternativa em que as operações, quando presentes como etapas da mesma instrução, permitem caracterizar a presença de uma abordagem CISC.
 
 R:
