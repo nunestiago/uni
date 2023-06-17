@@ -17,7 +17,7 @@ Além disso, alguns profissionais de segurança da informação também consider
 
     Autenticidade: A autenticidade refere-se à verificação da identidade de uma pessoa ou sistema. É importante saber que a pessoa ou sistema com o qual você está interagindo é realmente quem ou o que afirma ser.
 
-    Não repúdio: O não repúdio é a garantia de que uma parte não pode negar a autenticidade de algo. Por exemplo, em uma transação digital, o não repúdio impede que uma parte negue que enviou uma mensagem ou realizou uma ação.
+    Não repúdio ou Irretratabilidade: O não repúdio é a garantia de que uma parte não pode negar a autenticidade de algo. Por exemplo, em uma transação digital, o não repúdio impede que uma parte negue que enviou uma mensagem ou realizou uma ação.
 
     Responsabilidade (Accountability): A responsabilidade refere-se à capacidade de rastrear ações a indivíduos específicos para responsabilizá-los por suas ações.
 
@@ -38,3 +38,43 @@ R:
 I - Disponibilidade
 II - Integridade
 III - Confidencialidade
+
+Q3:
+(2020 - IDIB - Prefeitura de Colinas do Tocantins/TO - engenheiro civil) Em se tratando de segurança da informação, a literatura da área de tecnologia da informação elenca três prioridades básicas. Essas três prioridades também são chamadas de pilares da segurança da informação. Assinale a alternativa que indica corretamente o nome da prioridade básica relacionada ao uso de recursos que visam restringir o acesso às informações.
+
+R:
+Confidencialidade
+
+Q4:
+(2019 - NC-UFPR - Prefeitura de Matinhos/PR - fiscal de tributos) Sobre as políticas específicas de segurança, o termo de uso ou de serviço é um documento que define as regras de uso dos recursos computacionais, os direitos e as responsabilidades de quem os utiliza e as situações que são consideradas abusivas. Esse conceito se refere à política de:
+
+R:
+Uso aceitável
+
+Q5:
+Na verdade, a ideia é ensinar ao usuário a manusear sua senha de forma correta, não a deixando, por exemplo, embaixo do teclado. No meme do tapete que fala, o objetivo é ensinar ao usuário como manejá-la corretamente. Marque o item que integra esse ensinamento. 
+
+R:
+Confidencialidade
+
+Q6:
+Para decorar os pilares da segurança da informação, eles criam o seguinte mnemônico: “Cresci vendo televisão. Sempre achei o CID muito seguro ao narrar as reportagens”. Bill e Steve criaram vários mnemônicos. No dia seguinte, houve a prova de certificação. Sua primeira questão versava sobre os pilares. A ideia do mnemônico deu certo, mas eles esqueceram o que representava cada letra.
+
+Você resolve explicar para eles o significado de cada uma. Marque a alternativa que apresenta os termos corretos.
+
+R:
+Confidencialidade, Integridade, Disponibilidade
+
+Q7:
+Ao realizarmos o download de uma ISO de um software, normalmente usamos as funções de hash. Marque a alternativa que apresenta o pilar da segurança da informação que corresponde ao uso dessas funções.
+
+R:
+Integridade
+
+Q8:
+Constitui um dever de todo cidadão elaborar anualmente o imposto de renda. Com o advento da internet, a nossa declaração agora pode ser enviada diretamente para os servidores do governo. No início dessa metodologia, era comum haver notícias nos telejornais sobre os servidores não aguentaram e se desligarem sozinhos. Marque a alternativa que apresenta o pilar da segurança da informação que denomina perfeitamente tal situação.
+
+R:
+Disponibilidade
+
+Mód2 - Segurança física, lógica e controle de acesso
