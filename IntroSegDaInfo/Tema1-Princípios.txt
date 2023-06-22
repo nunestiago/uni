@@ -78,3 +78,84 @@ R:
 Disponibilidade
 
 Mód2 - Segurança física, lógica e controle de acesso
+
+Q1:
+(2019 - IF-BA - assistente em administração) A respeito dos conceitos que envolvem a segurança da informação, analise as afirmativas a seguir.
+
+I.Os mecanismos de segurança podem ser lógicos ou físicos.
+II. A perda de confidencialidade, integridade e disponibilidade é um exemplo dos eventos que comprometem a segurança da informação.
+III. Assinatura digital, encriptação e firewall são exemplos de mecanismos lógicos de segurança. 
+
+R:
+I, II e III
+
+Mecanismos ou controles de segurança podem ser lógicos e físicos. A segurança da informação é baseada em três aspectos fundamentas: confidencialidade, integridade e disponibilidade. Desse modo, a perda de qualquer um dos três aspectos já impacta na segurança. A pior situação ocorre quando perdemos os três juntos: trata-se praticamente de uma catástrofe. Por fim, os mecanismos lógicos, por definição, envolvem algoritmos.
+
+Q2:
+(2019 - Comperve - UFRN - analista de tecnologia da informação) A segurança computacional possui uma terminologia própria. Uma padronização na utilização dessa terminologia garante o correto entendimento entre os diferentes agentes envolvidos. Em relação a isso, considere as seguintes afirmações sobre a segurança computacional.
+
+I. A segurança física visa providenciar mecanismos para restringir o acesso às áreas críticas da organização a fim de garantir a integridade e a autenticidade dos dados.
+II. Uma ameaça pode ser definida como algum evento que pode ocorrer e acarretar algum perigo a algum ativo da rede. As ameaças podem ser intencionais ou não intencionais.
+III. São ameaças mais comuns às redes de computadores o acesso não autorizado, o reconhecimento (ex.: PortScan) e a negação de serviço (ex.: DoS ou DDoS).
+IV. O “tripé da segurança” é formado de pessoas, processos e políticas de segurança. De nada adianta uma política do tipo se as pessoas e os processos não forem considerados.
+
+Em relação à segurança computacional, estão corretas as afirmativas: 
+
+R:
+II e III
+A segurança é baseada em camadas; na parte física, são definidos os controles de acesso a determinadas regiões da instituição, como cancelas, catracas e sistemas de acesso biométrico. Quando eles perdem sua finalidade, o atacante pode chegar fisicamente perto do equipamento, podendo danificar a parte física dele. Dos vários problemas que podem ser realizados, devemos destacar a possibilidade de se quebrar o equipamento (colocando em risco a integridade da informação) ou modificá-lo de forma prejudicial (colocando em risco a autenticidade da informação). Contudo, não podemos garantir esses fatores. Neste ponto, um problema é gerado, pois ainda existem outros mecanismos que podem prover, pelo menos, a autenticidade dos dados.
+
+A ameaça é um evento que pode provocar a perda de um dos três pilares da segurança: confidencialidade, integridade e disponibilidade. Sobre as ameaças comuns às redes, os exemplos estão corretos, porém, de acordo com as últimas estatísticas, isso pode mudar a qualquer momento. Tais ameaças são comuns, pois, até o momento, não existe uma solução completa para isso.
+
+Q3:
+(2016 - CESPE /Cebraspe - TRT - 8ª Região - analista judiciário - tecnologia da informação) Correspondem a itens capazes de oferecer controle ou proteção no âmbito da segurança física preventiva: 
+
+R:
+Autenticação biométrica
+A segurança física está relacionada ao acesso às dependências das instalações; a lógica, aos algoritmos que protegem os dados.
+
+Q4:
+(2013 - FCC - TRT - 9ª Região - técnico judiciário – segurança) Convém que sejam utilizados perímetros de segurança (barreiras, como paredes, portões de entrada controlados por cartão ou balcões de recepção com recepcionistas) para proteger as áreas que contenham informações e instalações de processamento da informação. Além disso, que sejam levadas em consideração e implementadas as seguintes diretrizes para perímetros de segurança física, quando apropriado:
+
+I. Os perímetros de segurança devem ser claramente definidos, assim como a localização e capacidade de resistência de cada perímetro precisam depender dos requisitos de segurança dos ativos existentes no interior do perímetro e dos resultados da análise/avaliação de riscos.
+II. Os perímetros de um edifício ou de um local que contenha instalações de processamento da informação precisam ser fisicamente sólidos (ou seja, o perímetro não deve ter brechas nem pontos onde poderia ocorrer facilmente uma invasão).
+III. Deve-se implantar uma área de recepção ou outro meio para controlar o acesso físico ao local ou ao edifício. Esse acesso deve ficar restrito somente ao pessoal autorizado.
+IV. Devem ser construídas barreiras físicas para impedir o acesso físico não autorizado e a contaminação do meio ambiente.
+
+Está correto o que se afirma em: 
+
+R:
+I, II, III e IV
+
+Q5:
+Ao projetar uma rede, é comum adotar um firewall para proteger uma rede interna. Com relação ao papel do firewall, marque a opção que apresenta uma forma correta de classificar esse ativo de TIC. 
+
+R:
+Segurança lógica
+
+Q6:
+A partir da pandemia ocorrida em 2020, os sistemas de acesso evoluíram para o uso de reconhecimento facial. Muitos desses sistemas possuem slogans bem criativos, como este: “Um sistema de acesso com reconhecimento facial permite levar a sua empresa diretamente para o mundo da alta tecnologia por meio do uso desta importante ferramenta de segurança: _______________”.
+
+Marque a alternativa que apresenta o termo que completa o slogan anterior de forma mais satisfatória. 
+
+R:
+Física
+
+Q7:
+(2019 - FCC - TRF - 4ª Região - analista judiciário - sistemas de tecnologia da informação) Suponha que um analista do Tribunal Regional Federal da 4ª Região se depare com uma situação em que deve implantar mecanismos de proteção interna voltados à segurança física e lógica das informações no ambiente do tribunal. Para isso, ele levantou os seguintes requisitos:
+
+I. Não instalar em áreas de acesso público equipamentos que permitam o acesso à rede interna do tribunal.
+II. Os usuários não podem executar transações de TI incompatíveis com sua função.
+III. Apenas usuários autorizados devem ter acesso ao uso dos sistemas e aplicativos.
+IV. É necessário proteger o local de armazenamento das unidades de backup e restringir o acesso a computadores e impressoras que possam conter dados confidenciais.
+
+O analista classificou correta e respectivamente os requisitos de I a IV como uma segurança:
+
+R:
+física, lógica, lógica, física
+
+Q8:
+(2018 - Cesgranrio - Transpetro - analista de sistemas júnior - processos de negócio) Para proteger as redes de dados, as empresas criam perímetros de segurança formados por componentes que avaliam o tráfego de ingresso e egresso. O componente que utiliza listas de controle de acesso formadas por regras que determinam se um pacote pode ou não atravessar a barreira é a(o):
+
+R:
+Firewall

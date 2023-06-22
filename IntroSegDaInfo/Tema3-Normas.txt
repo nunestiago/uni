@@ -1,0 +1,17 @@
+Mód 1
+Q1:
+Qual palavra é citada frequentemente na Norma ISO/IEC 27001, que constitui sua característica marcante?
+
+R:
+Deve
+Orientações do que deve ser feito. Os requisitos definidos nesta norma são genéricos e é pretendido que sejam aplicáveis a todas as organizações, independentemente de tipo, tamanho e natureza. A exclusão de quaisquer dos requisitos especificados nas seções de 4 a 10 na versão 2013 não é aceitável quando uma organização reivindica conformidade com esta norma.
+
+Q2:
+Marque a alternativa correta quanto à afirmação sobre a Norma ISO/IEC 27002.
+
+R:
+A relevância de qualquer controle deve ser determinada segundo os riscos específicos a que uma organização está exposta
+
+A norma contém orientações do que convém ser feito. Embora todos os controles sejam importantes e devam ser considerados, a relevância de qualquer controle deve ser determinada segundo os riscos específicos a que uma organização está exposta. Nem todos os controles e diretrizes contidos na norma podem ser aplicados, e controles adicionais e recomendações não incluídos podem ser necessários. Ela possui 35 objetivos de controles e 114 controles básicos distribuídos em 14 seções.
+
+Mód 2 - Aplicações das normas ISO/IEC 27001 e ISO/IEC 27002

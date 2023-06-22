@@ -1,0 +1,32 @@
+Mód 1 - Ameaças e Vulnerabilidades à Segurança de Informação
+Q1:
+(IADES – 2019 – CRF-TO – Analista de TI) “[...] é uma fraqueza de um ativo ou grupo de ativos que pode ser explorada por uma ou mais ameaças” (HINTZBERGEN, 2018). A definição apresentada refere-se ao conceito de:
+
+R:
+Vulnerabilidade
+
+Q2:
+Considere o ataque às torres gêmeas ocorrido em Nova York. Marque a opção que não apresenta uma possível classificação àquela ameaça.
+
+Lógica
+Humana
+Infraestrutura
+Terrorista
+Física
+
+R:
+Lógica
+O ataque às torres gêmeas ocorreu quando aviões comerciais foram sequestrados por grupos terroristas; assim, foi uma ameaça física, humana, que nesse contexto é sinônimo de terrorista e infraestrutura.
+
+Mód 2 - Técnicas para ataque cibernéticos
+Q1:
+(IBFC – 2018 – Câmara de Feira de Santana-BA – Técnico de Suporte em Informática) É um software nocivo do tipo spyware, cuja finalidade é registrar tudo o que é digitado, quase sempre a fim de capturar senhas, números de cartão de crédito e afins. Essa é a descrição técnica do:
+
+R:
+Keylogger
+
+Q2:
+(CESGRANRIO – 2018 – Transpetro – Analista de Sistemas Júnior – Infraestrutura) O código malicioso que visa criptografar os dados das vítimas e cobrar pagamento de resgate pela chave e pelo código de decriptação é classificado como um:
+
+R:
+Ransomware
