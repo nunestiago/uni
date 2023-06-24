@@ -1,0 +1,38 @@
+Mód 1 - Plano de Continuidade de Negócio
+Q1:
+O Plano de Continuidade de Negócios (PCN) descreve como a empresa deve atuar diante da identificação das ameaças e dos impactos nas operações a fim de garantir a preservação do negócio. Portanto, ele é essencial para a minimização das possíveis perdas. Nesse sentido, é correto afirmar sobre o PCN que:
+
+R:
+É um processo preventivo
+
+Q2:
+O processo de elaboração do Plano de Continuidade de Negócios (PCN) de uma organização é complexo. Nesse sentido, selecione a opção correta a respeito do PCN.
+
+R:
+Deve passar por revisões periódicas para se adequar a novos cenários
+
+Mód 2 - Desenvolvendo o PCN
+Q1:
+O modelo PDCA (Plan-Do-Check-Act) é focado na melhoria contínua dos processos de uma organização. Selecione a opção que apresenta, resumidamente, como ele atinge seu objetivo:
+
+R:
+A partir da análise dos desvios do comportamento de um processo com as suas metas predefidinas, direciona quais medidas corretivas devem ser adotadas
+
+Q2:
+O Plano de Recuperação de Desastres (PRD) é um documento que define os recursos, as ações, as tarefas e os dados requeridos para administrar o processo de recuperação e de restauração dos componentes que suportam os Processos de Negócio. Selecione a opção correta em relação ao PRD. 
+
+R:
+O Plano de Recuperação de Desastres (PRD) é um documento que define os recursos, as ações, as tarefas e os dados requeridos para administrar o processo de recuperação e de restauração dos componentes que suportam os Processos de Negócio. Selecione a opção correta em relação ao PRD. 
+
+Mód 3 - PGCN Política de Gestão de Continuidade de Negócios
+Q1:
+Qual o propósito da Política de Gestão de Continuidade de Negócios (PGCN)?
+
+R:
+Fornecer uma base para que se possa entender, desenvolver e implementar a continuidade de negócios em uma organização
+
+Q2:
+A respeito do Gerenciamento de Continuidade na biblioteca ITIL, é correto afirmar que:
+
+R:
+Concentra-se no alinhamento de serviços de TI com as necessidades do negócio

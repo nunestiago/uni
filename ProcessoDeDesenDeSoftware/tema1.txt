@@ -1,0 +1,21 @@
+Mód 1
+Q1:
+FCC – 2010 (adaptado) - Sobre a engenharia de software, considere:
+
+I. Atualmente, todos os problemas na construção de software de alta qualidade no prazo e dentro do orçamento foram solucionados.
+II. Ao longo dos últimos 50 anos, o software evoluiu de um produto de indústria para um ferramental especializado em solução de problemas e análise de informações específicas.
+III. Todo projeto de software é iniciado por alguma necessidade do negócio.
+IV. O intuito da engenharia de software é fornecer uma estrutura para a construção de software com alta qualidade.
+
+Está correto o que consta em: 
+
+R:
+III e IV
+O software tem como um dos principais objetivos agregar valor ao negócio, permitindo a automação de rotinas comumente associadas ao controle administrativo ou em apoio ao processo de decisão. A Engenharia de Software permite o fornecimento dessa estrutura disponibilizando processos, métodos e ferramentas.
+
+Q2:
+Prefeitura Municipal de Manaus – 2010 - A Engenharia de Software compreende um conjunto de etapas comumente citadas como paradigmas de Engenharia de Software. No tocante a essas etapas, assinale a opção correta.
+
+R:
+Os procedimentos da Engenharia de Software constituem o elo que mantém juntos os métodos e as ferramentas.
+A Engenharia de Software possui quatro camadas: qualidade, processo, métodos e ferramentas. Cabe à camada de processo, a determinação das etapas de desenvolvimento do software. Definido o processo, o engenheiro de software especifica os métodos e as ferramentas que serão utilizadas.

@@ -1,0 +1,37 @@
+Mód 1 - Vulnerabilidades, ameaças, ataques 
+Q1:
+Imagine que uma pessoa não autorizada conseguiu invadir o datacenter de uma organização corporativa que possui roteadores e servidores. Dentro dos termos relacionados à segurança da informação, esta pessoa, para a corporação, pode ser considerada:
+
+R:
+Ameaça
+A norma ABNT NBR ISO/IEC 27002:2013 diz que “ativos são objeto de ameaças tanto acidentais como deliberadas. […] em função das várias maneiras nas quais as ameaças podem se aproveitar das vulnerabilidades para causar dano à organização, os riscos de segurança da informação estão sempre presentes. Uma segurança da informação eficaz reduz esses riscos, protegendo a organização das ameaças e vulnerabilidades e, assim, reduzindo o impacto aos seus ativos”.
+
+Q2:
+Segundo a norma ABNT NBR ISO/IEC 27001:2013, uma organização, para entender as necessidades e as expectativas das partes interessadas, “deve determinar: 
+a) As partes interessadas que são relevantes para o sistema de gestão de segurança da informação; e 
+b) Os requisitos dessas partes interessadas relevantes para a segurança da informação”.
+
+As partes interessadas em um sistema de gestão de segurança da informação podem ser entendidas como:
+
+R:
+Os indivíduos ou grupos que se interessam pelo desempenho ou sucesso da organização.
+
+Mód 2 -  Processos da gestão de riscos 
+Q1:
+Segundo a ABNT (2018), a avaliação de riscos de TI e segurança da informação é baseada na elaboração da uma matriz de risco estruturada com aderência à norma ISO/IEC 27005. Tal norma identifica os principais itens que compõem o ambiente avaliado, especificando com clareza suas vulnerabilidades e ameaças.
+
+Além disso, a matriz apresenta o impacto da exploração dessas vulnerabilidades pelas ameaças e a probabilidade de tal ocorrência. O risco, portanto, é um resultado da função impacto versus probabilidade, sendo estimado quantitativa (estimativa numérica) e qualitativamente (conceitual).
+
+Analise as afirmativas a seguir:
+
+I - Uma vez que uma ameaça explora vulnerabilidade(s) de um ativo e causa um incidente de segurança da informação, este, por sua vez, poderá causar um impacto não desejável à organização, ou seja, uma mudança não desejável nos objetivos de negócios.
+II - Se uma organização adotar o conjunto mais econômico de medidas para controlar os riscos, pode-se afirmar com toda a certeza que ela pode dispensar a utilização das etapas da gerência de riscos, pois toda a organização irá obter o nível de risco no patamar "inexistente".
+III - Uma típica matriz de risco consegue apresentar graus para a medição qualitativa ou quantitativa da probabilidade, mas fica inviável apresentar graus para a medição do impacto.
+
+Marque a alternativa que possui somente as afirmativas verdadeiras:
+
+R:
+I
+A Gerência de Riscos (GR) deve ser permanente, pois sempre podem existir vulnerabilidades e ameaças que podem afetar os pilares de segurança da informação. A adoção permanente de uma cultura de Gestão de Riscos pode manter o nível dos riscos em patamares aceitáveis. Em uma GR, as Matrizes de Riscos serão elaboradas, utilizadas e melhoradas continuamente. Uma típica matriz de riscos apresenta os possíveis graus de riscos, decorrentes das escalas de medição qualitativa e/ou quantitativa da probabilidade e do impacto.
+
+A análise ou estimativa de riscos faz parte da etapa de processo de avaliação deles. Os objetivos desta etapa são identificar os riscos e definir o que deve ser feito para diminui-los até um nível aceitável. Esta tabela mostra o levantamento realizado na etapa de identificação deles. Após isso, é possível realizar sua estimativa e avaliação.

@@ -1,0 +1,38 @@
+Mód 1 - Boas práticas em segurança da informação 
+Q1:
+Um funcionário de uma organização resolveu adotar o número de sua matrícula como senha. Marque a alternativa que apresenta a postura que deve ser adotada pela empresa para evitar essa situação:
+
+R:
+A organização deve implementar um sistema que verifique se a senha atende a determinados pré-requisitos.
+
+Q2:
+Selecione a opção que apresenta algumas das recomendações de treinamento em conscientização de segurança que podem ser implementadas nas organizações:
+
+R:
+Desenvolver treinamentos e exercícios de simulação
+
+Mód 2 - Controle de acesso, antivírus e backup
+Q1:
+Quais são os recursos que o controle de acesso visa proteger?
+
+R:
+Todos os recursos que possam fornecer informação sobre a organização, seus funcionários, clientes e parceiros.
+
+Q2:
+(Adaptado de CESPE – Polícia Federal – Papiloscopista – 2018) “São exemplos de vírus contidos em programas aparentemente inofensivos. Além disso, as suas ações são disfarçadas pelas funcionalidades do programa hospedeiro”. Considere a definição dada e selecione a opção que corresponde a esse tipo de vírus:
+
+R:
+Trojan horse
+
+Mód 3 - Criptografia e certificado digital 
+Q1:
+Marque a alternativa que apresenta os tipos de criptografias:
+
+R:
+Chave simétrica, chave assimétrica e função Hash.
+
+Q2:
+Selecione a opção que apresenta todos os itens que compõem um certificado digital:
+
+R:
+Nome do titular do certificado, número de série usado para identificar exclusivamente um certificado, o indivíduo ou a entidade identificada pelo certificado, datas de expiração, cópia da chave pública do detentor de certificado.

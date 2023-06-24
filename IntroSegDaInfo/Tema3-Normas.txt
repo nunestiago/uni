@@ -15,3 +15,33 @@ A relevância de qualquer controle deve ser determinada segundo os riscos espec�
 A norma contém orientações do que convém ser feito. Embora todos os controles sejam importantes e devam ser considerados, a relevância de qualquer controle deve ser determinada segundo os riscos específicos a que uma organização está exposta. Nem todos os controles e diretrizes contidos na norma podem ser aplicados, e controles adicionais e recomendações não incluídos podem ser necessários. Ela possui 35 objetivos de controles e 114 controles básicos distribuídos em 14 seções.
 
 Mód 2 - Aplicações das normas ISO/IEC 27001 e ISO/IEC 27002
+Q1:
+Continuando com o exemplo do estudo de caso para aplicação dos itens da Norma ABNT NBR ISO/IEC 27001:2013 da empresa de web hosting que busca a conformidade para o seu Sistema de Gestão de Segurança da Informação, e considerando as mesmas sugestões e premissas definidas no início dos conceitos deste módulo, veja a seguinte descrição da cena/ocorrência:
+
+Ocorrência
+Um dos auditores internos é responsável pela administração do banco de dados em um setor. Como na auditoria metade da equipe da empresa viajou para treinamento do novo sistema, ele acabou auditando também a sua área, incluindo partes do seu trabalho.
+
+R:
+Faltam as informações se esse fato estava previsto nos critérios dessa auditoria e se a imparcialidade foi assegurada.
+
+Na realidade, todas as respostas podem estar corretas, mas conforme já informado, iremos analisar com as sugestões e premissas estabelecidas no primeiro exemplo.
+
+Essa cena será enquadrada no item 9.2, Auditoria Interna.
+
+A letra A estaria correta se estivéssemos utilizando a norma ABNT NBR ISO/IEC 27001:2006, que cita exatamente que os auditores não devem auditar seu próprio trabalho. Essa frase deixou de existir na versão 2013, embora ainda seja uma boa prática.
+
+Na letra B, pode até ser que venha uma descrição mais importante, mas iremos nos ater apenas à descrição, que já é suficiente para o auditor analisar na norma ou fazer questionamentos ao auditado.
+
+A letra C não está correta, pois faltam informações sobre algumas frases do item da norma.
+
+Enfim, na letra D, o auditor realizará exatamente as perguntas sobre as informações faltantes descritas, e ainda cabe mais uma, se esse acontecimento (auditar o próprio trabalho) está previsto no programa de auditoria.
+
+Q2:
+Leia a notícia a seguir extraída de um site da web, para aplicação dos itens da Norma ABNT NBR ISO/IEC 27002:2013:
+
+Quando o Deutsche Bank perdeu seus escritórios nos ataques de 11 de setembro, os funcionários puderam acessar o e-mail corporativo no dia seguinte para que pudessem se conectar com clientes e colegas de trabalho em casa. "Tivemos acesso aos nossos arquivos, embora a TI estivesse na Torre Dois do World Trade Center", diz uma fonte. "Tivemos backup em Jersey City. Não perdemos nada. Tenho amigos que trabalham em empresas menores que não ficaram dois meses sem poder ir ao escritório. O escritório de advocacia de um amigo faliu” (DEUTSCHE BANK, 2009).
+
+Este relato de adoção de medidas de proteção, nestes termos, poderá ser melhor enquadrado no item da Norma ISO/IEC 27002:2013.
+
+R:
+17.1: Continuidade da segurança da informação. Objetivo: Convém que a continuidade da segurança da informação seja contemplada nos sistemas de gestão da continuidade do negócio da organização.
