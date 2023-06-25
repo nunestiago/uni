@@ -1,0 +1,77 @@
+Q1:
+Dentre as opções a seguir, qual Norma Técnica apresenta um código de prática para a gestão da segurança da informação?
+
+R:
+ABNT NBR ISO/IEC 27002:2013
+
+Q2:
+Assinale a assertiva que NÃO representa um dos benefícios para a adoção da norma ABNT NBR ISO/IEC 27001:2013 por uma organização:
+
+R:
+Isola recursos com outros sistemas de gerenciamento
+
+Q3:
+(AMEOSC/2022 - Adaptada) Protege o computador contra outros programas potencialmente danosos. Ele detecta, impede e atua na remoção de programas maliciosos, como vírus e worms.
+
+R:
+Antivírus
+
+Q4:
+O processo de proteção de dados é um conjunto de ações que têm como objetivo garantir a segurança e a privacidade das informações armazenadas por uma organização ou indivíduo. Esse processo envolve a implementação de medidas técnicas, organizacionais e legais que visam prevenir o acesso, o uso, a alteração, a destruição ou a divulgação não autorizada de dados sensíveis. Nesse sentido, qual das opções abaixo é uma razão válida para justificar a importância de se realizar backups regularmente como medida de segurança da informação?
+
+R:
+Caso as informações sejam perdidas ou corrompidas devido a falhas de hardware, malware ou erros humanos, um backup recente pode ser restaurado, garantindo a continuidade das operações.
+
+Q5:
+Um ataque de negação de serviço tenta afetar a disponibilidade de um ativo, por exemplo, inundando um servidor de aplicação em rede com mais dados do que é capaz de processar por unidade de tempo.
+
+Se existe uma ferramenta, dentro do domínio do servidor, que reage a um ataque de negação de serviço, ela é classificada como uma medida de controle:
+
+R:
+Reativa
+
+Q6:
+Dos planos que constituem o PCN (Plano de Continuidade de Negócios), selecione o que define as funções e responsabilidades das equipes envolvidas com acionamento das equipes de contingência:
+
+R:
+Plano de Administração de Crises
+
+Q7:
+Na questão que avalia conhecimento de informática, a  menos  que  seja  explicitamente  informado  o  contrário,  considere que: todos os programas  mencionados estejam em  configuração‐padrão,  em  português;  o  mouse  esteja  configurado  para  pessoas  destras;  expressões  como  clicar,  clique  simples  e  clique  duplo  refiram‐se  a  cliques  com  o  botão esquerdo do mouse; e teclar  corresponda  à operação  de  pressionar  uma  tecla  e,  rapidamente,  liberá‐la,   acionando‐a  apenas  uma  vez.  Considere  também  que  não haja restrições  de proteção, de funcionamento e de uso em relação aos programas, arquivos,  diretórios, recursos e equipamentos mencionados.
+
+Assinale a alternativa que apresenta procedimento de segurança da informação que pode ser adotado pelas organizações.
+
+R:
+realizar, periodicamente, análises de riscos, com o objetivo de contemplar as mudanças nos requisitos de segurança da informação
+
+Q8:
+Em relação à segurança da informação e aos controles de acesso físico e lógico, considere:
+
+I. Se um usuário não mais faz parte a lista de um grupo de acesso aos recursos de processamento da informação, é certo que o grupo seja extinto com a criação de um novo, contendo os usuários remanescentes.
+
+II. Direitos de acesso (físicos e lógicos) que não foram aprovados para um novo trabalho devem ser retirados ou adaptados, incluindo chaves e qualquer tipo de identificação que associe a pessoa ao novo projeto.
+
+III. O acesso às áreas em que são processadas ou armazenadas informações sensíveis deve ser controlado e restrito às pessoas autorizadas, preferencialmente por controles de autenticação, por exemplo, cartão de controle de acesso mais PIN (personal identification number).
+
+R:
+II e III
+
+Q9:
+Ativos são recursos econômicos controlados por uma organização que possuem valor e podem gerar benefícios futuros. Eles são divididos em duas categorias principais: ativos tangíveis e ativos intangíveis. De maneira geral, qual exemplo pode ser considerado um ativo lógico tangível?
+
+R:
+Imagem da organização
+
+Q10:
+(FCC/2010) Sobre segurança da informação, considere:
+
+I. Ameaça: algo que possa provocar danos à segurança da informação, prejudicar as ações da empresa e sua sustentação no negócio, mediante a exploração de uma determinada vulnerabilidade.
+
+II. Vulnerabilidade: é medida pela probabilidade de uma ameaça acontecer e o dano potencial à empresa.
+
+III. Risco: ponto pelo qual alguém pode ser atacado, molestado ou ter suas informações corrompidas.
+
+R:
+I
+
+9 de 10
