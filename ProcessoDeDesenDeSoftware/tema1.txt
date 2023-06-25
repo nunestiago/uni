@@ -38,3 +38,35 @@ Um engenheiro de software está identificando os requisitos não funcionais para
 R:
 Fluxo de Processo Evolucionário.
 O Fluxo de Processo Evolucionário permite o versionamento do software e o melhor trato da complexidade. A cada nova iteração, todas as tarefas são executadas, permitindo a solução de um subconjunto de requisitos, e uma nova versão do software é gerada.
+
+Mód 3
+Q1:
+O gerente de projeto de um determinado projeto de software definiu o processo de desenvolvimento com as atividades comumente utilizadas, tais como, levantamento de requisitos, análise, projeto etc. O fluxo de processos adotado foi o evolucionário por permitir o versionamento do software. A equipe do projeto, no momento, está definindo a duração de cada atividade do processo de desenvolvimento de software e as respectivas dependências. Qual o grupo de processos do PMBOK e a área de conhecimento do projeto encontra-se a equipe de projeto?
+
+R:
+Grupo de processos planejamento e área de conhecimento gerenciamento do cronograma.
+
+A área de gerenciamento do escopo permite criar a EAP. Na sequência, ainda no grupo de processos planejamento, podemos iniciar os processos da área de conhecimento gerenciamento do cronograma que inclui a identificação das atividades e suas dependências.
+
+Q2:
+O engenheiro de software necessita definir o escopo do projeto de um determinado software e decidiu utilizar o processo que permite a criação da Estrutura Analítica do Projeto (EAP). Assinale a afirmativa correta relativa à EAP:
+
+R:
+Após a criação da EAP, o engenheiro de software poderá iniciar os processos que permitem o estabelecimento do cronograma do projeto.
+
+A Estrutura Analítica de Projeto, ou simplesmente EAP, permite a representação gráfica do escopo do projeto, sendo confeccionada no grupo de processos planejamento e pertence à área de conhecimento gerenciamento de escopo. A criação da EAP permite, em continuidade à etapa de planejamento, a execução de processo que conduzam ao desenvolvimento do cronograma.
+
+Mód 4
+Q1:
+Um engenheiro de software, responsável pelo gerenciamento de riscos, detectou um risco relacionado ao uso de uma nova tecnologia de persistência de dados nunca utilizada na empresa. Em uma reunião de Brainstorming, participantes do projeto apresentaram outros riscos do projeto em desenvolvimento. Ao final da reunião, cada risco foi priorizado em função das respectivas ameaças ao projeto, sendo gerada uma ata da reunião com o plano de respostas a todos os riscos. No contexto do gerenciamento de risco, analise o final da referida reunião e assinale a opção correta:
+
+R:
+O gerente de riscos deveria ter realizado a análise quantitativa antes da geração do plano de respostas aos riscos.
+
+Q2:
+COVEST- COPSET – 2019 (adaptada) Ao fazer seu plano de riscos, um analista elaborou uma matriz de probabilidade e impacto. Sobre o emprego deste tipo de metodologia, é correto afirmar que:
+
+R:
+Nessa matriz, foram especificadas as combinações de probabilidade e o impacto que levam à classificação dos riscos, podendo estes serem classificados separadamente por objetivo, como custo, tempo e escopo.
+
+A Análise qualitativa dos riscos permite definir, para cada risco identificado, uma probabilidade e um grau de impacto, o que permite priorizar os riscos em função de seu efeito sobre os resultados do projeto.
