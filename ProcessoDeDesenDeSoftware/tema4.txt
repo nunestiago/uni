@@ -1,0 +1,96 @@
+Mód 1
+Q1:
+O modelo do CMMI é estruturado de forma que, primeiramente, são apresentadas as categorias e dentro de cada categoria, estão as áreas de capacidade, que são os agrupamentos dos processos relacionados. Nesse sentido, escolha a alternativa que corresponde corretamente à coluna da direita com sua proposta na coluna da esquerda, associando as categorias à sua área de capacidade.
+Categorias 	Capacidade
+I. Fazendo (Doing) 	Planejamento e Gerência do Trabalho / Gerência de Resiliência do Negócio / Gerência da Força do Trabalho
+II. Gerenciando (Managing) 	Entrega e Gerência de Serviços / Desenvolvimento e Engenharia do Produto / Garantia da Qualidade / Seleção e Gerência de Fornecedores
+III. Possibilitando (Enabling) 	Manutenção de Hábito e Persistência / Melhoria do Desempenho
+IV. Melhorando (Improving) 	Apoio à Implementação / Gerenciando a Segurança / Gerenciamento da Segurança
+
+R:
+II I IV III
+
+Essa sequência descreve corretamente as descrições da coluna da direita, de acordo com as suas categorias de áreas.
+
+Q2:
+No formato antigo das avaliações do CMMI, as empresas investiam um alto valor (tanto em recursos financeiros quanto recursos humanos) e caso a avaliação fosse negativa, muito disso era perdido. Isso desagradava muitos dos apoiadores do CMMI. Nesta nova versão, o CMMI 2.0, a avaliação trouxe adaptações para que avaliações “intermediárias” com menor custo para as empresas fossem passíveis de serem feitas.
+
+Porém, para garantir o padrão CMMI, uma das avaliações é considerada a oficial e realizada por um avaliador certificado CMMI. Qual é o nome dessa avaliação?
+
+R:
+Benchmark
+
+O CMMI conta com três tipos de avaliações: a Sustainment, rápida de ser realizada, pois é avaliada apenas uma parte do escopo da organização; a Evaluation que é um tipo de diagnóstico inicial dos processos sem validade oficial e que pode ajudar a organização a entender os pontos fracos e o que precisa ser realizado para implementar processos aderentes ao nível pretendido; e a Benchmark, em que um avaliador líder, devidamente certificado pelo CMMI Institute, analisa o conjunto de documentos.
+
+Mód 2
+Q1:
+O modelo estabelecido pela norma ISO/IEC na parte 5 serve de base para as avaliações, é bidimensional e possui processos, capacidade e maturidade. Na dimensão de processo, a norma inclui um modelo no qual são estabelecidos os processos, agrupados em três grandes categorias. Assinale a seguir quais são essas categorias.
+
+R:
+Processos primários do ciclo de vida, processos de suporte e processos do ciclo de vida organizacional
+
+Q2:
+A família da norma ISO/IEC 33000 foi criada como uma emancipação da já existente série ISO/IEC 15504. Ela fornece uma estrutura para a avaliação das características de qualidade do processo (por exemplo, capacidade do processo) e maturidade organizacional. Os resultados dessa avaliação são muito importantes, pois quando usada para identificar riscos, pode trazer grande ganho à empresa que a implantou. Assinale a alternativa que mostra os dois modelos apresentados na norma ISO/IEC 33000.
+
+R:
+PRM e PAM
+
+A norma ISO/IEC 33004 conceitua o PRM (Process Reference Model) e o PAM (Process Assessment Model). O PRM consiste no estabelecimento de requisitos para descrever um modelo com objetivo, escopo, propósitos e resultados, já o PAM é um framework de medição de processos, o qual contém um conjunto de atributos de processos relacionados às características de qualidade de processos.
+
+Mód 3
+Q1:
+A norma ISO/IEC 12207 é uma norma internacional lançada em 1995. Ela descreve os processos, atividades e tarefas que envolvem os produtos de software. Assinale a seguir a alternativa que descreve o objetivo dessa norma.
+
+R:
+O objetivo é estabelecer uma estrutura comum parar os processos de ciclo de vida de software e ajudar as organizações a compreenderem todos os componentes presentes na aquisição e fornecimento de software.
+
+A adoção da norma ISO/IEC 12207 estabelece uma estrutura comum para os processos de ciclo de vida de software e ajudar as organizações a compreenderem todos os componentes presentes na aquisição e fornecimento de software.
+
+Q2:
+Os processos da norma ISO/IEC 12207 são descritos de uma maneira semelhante às outras normas ISO, a fim de facilitar o uso dos padrões em uma única organização ou projeto. Eles são agrupados em grandes áreas para sua melhor organização. Uma área é a dos processos fundamentais. Nesse sentido, numere a coluna de acordo com sua correspondência com a outra coluna, associando o processo à sua descrição.
+
+    Aquisição
+    Fornecimento
+    Desenvolvimento
+    Operação
+    Manutenção
+
+Onde:
+
+( ) Define quais atividades deverão ser seguidas pelo cliente na aquisição de um software ou serviço.
+
+( ) Traz as atividades referentes às obrigações do fornecedor.
+
+( ) Traz as atividades do mantenedor, após a identificação da necessidade de se realizar mudanças no software, o que também resultaria na utilização do processo de desenvolvimento.
+
+( ) Traz as atividades que visam à realização de suporte operacional para o bom funcionamento do software, assim como suporte ao usuário.
+
+( ) Traz as atividades do desenvolvedor, tanto para o desenvolvimento de um novo software ou manutenções, sendo essas atividades desde a análise de requisitos, codificação, à aceitação do produto de software.
+
+R:
+1 2 5 4 3
+
+Mód 4
+Q1:
+A SOFTEX é uma organização que desenvolve, desde 1996, ações para promover a melhoria da competitividade da Indústria Brasileira de Software, Serviços de TI e Comunicações. Ela é a gestora do Guia MPS.BR para software, que dentre vários benefícios, promove o aumento da competitividade das organizações pela melhoria de seus processos, e tem metas a serem alcançadas. Analise as metas a seguir e, em seguida, assinale a alternativa correta.
+
+I) Aumentar o retorno financeiro da SOFTEX com a venda dos guias.
+
+II) Atualizar os modelos e guias dos Modelos de Maturidade do MPS.
+
+III) Formar consultores, instrutores de cursos, avaliadores e Instituições implementadoras/avaliadoras nos modelos de Maturidade do MPS.
+
+IV) Disseminar e viabilizar a adoção dos Modelos de Maturidade do MPS para a melhoria da competitividade das empresas.
+
+V) Melhorar as ações de marketing e publicidade para ficarem mais conhecidas.
+
+R:
+II III IV
+
+A SOFTEX não vende os guias, eles são fornecidos gratuitamente para as pessoas que desejam utilizar. Marketing e publicidade não fazem parte das metas apresentadas pela SOFTEX.
+
+Q2:
+O Modelo de Referência MPS.BR para software define níveis de maturidade, sete no total, nominados de A até G. Esses níveis são uma combinação entre processos e sua capacidade, e os processos estão divididos em dois conjuntos: processos de projetos e processos organizacionais. Para o nível de maturidade C, assinale a opção que indica os processos de projeto.
+
+R:
+Gerência de projetos, engenharia de requisitos, projeto e construção de produto, integração do produto, verificação e validação

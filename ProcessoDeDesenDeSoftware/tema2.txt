@@ -1,0 +1,74 @@
+Mód 1
+Q1:
+(UFG - 2010 - UFG - Analista de TI - Desenvolvimento de Sistemas) Requisitos não funcionais são restrições aos serviços de um sistema de software e ao processo de desenvolvimento do sistema. A equipe de desenvolvimento de um sistema de controle de tráfego aéreo deve considerar os requisitos não funcionais de:
+
+R:
+Alta disponilidade e baixo tempo de resposta de usuário por evento
+
+Quando ocorre uma falha no software, o requisito não funcional de disponibilidade contabiliza o tempo disponível para uso e o tempo necessário para a solução de um problema, de modo que alta disponibilidade significa que o sistema está em condições de uso a maior parte do tempo. O requisito não funcional tempo de resposta especifica o tempo que o sistema responderá à determinada solicitação de serviço. Ambos os requisitos são fundamentais para um sistema de controle de tráfego aéreo.
+
+Q2:
+(FCC - 2019 - SEMEF Manaus - AM - Técnico de Tecnologia da Informação da Fazenda Municipal) Considerando a análise de requisitos, as informações de rastreabilidade desempenham um papel de grande importância. Assim, a equipe responsável da Fazenda Municipal deve estar ciente de que a rastreabilidade de projeto significa:
+
+R:
+Possuir o mapeamento entre os requisitos e os módulos de projeto que implementam os requisitos.
+
+A rastreabilidade, iniciada com o levantamento de requisitos, permite gerenciar volatilidade dos requisitos durante o processo de desenvolvimento de software.
+
+Mód 2
+Q1:
+Sobre as camadas do modelo de arquitetura MVC (Model - View-Controller) usado no desenvolvimento web, é correto afirmar:
+
+R:
+A camada controller, geralmente, possui um componente controlador padrão, criado para atender a todas as requisições do cliente.
+
+O padrão de arquitetura de projeto MVC torna fácil a manutenção do software, permitindo a implantação modular de forma rápida, cabendo à camada view gerar um evento a partir de uma requisição do cliente. O referido evento é atendido por um controller.
+
+Q2:
+O engenheiro de software está encerrando a etapa de análise e iniciando a etapa de projeto. Assinale a afirmativa que NÃO é uma atividade de projeto:
+
+Aumentar o grau de abstração do modelo de classes.
+
+Identificar os métodos das classes a partir de modelos dinâmicos.
+
+Definir o modelo lógico de banco de dados.
+
+Utilizar padrões de projeto no diagrama de classes.
+
+R:
+Aumentar o grau de abstração do modelo de classes.
+
+A etapa de projeto permite o refinamento de modelos de análise, tal como o modelo de classes, de forma a diminuir o nível de abstração. Exemplo: o modelo de classes é refinado aumentando o nível de detalhamento.
+
+Mód 3
+Q1:
+(Secretaria da Fazenda do Estado da Bahia - Auditor Fiscal - Tecnologia da Informação - FCC - 2019) Suponha que uma auditora fiscal da área de TI atue na etapa de testes e avaliação da qualidade de um software em desenvolvimento. Como o software sofria alterações a cada nova funcionalidade a ele incorporada, a auditora propôs que a equipe de testes adotasse como padrão um tipo de teste que garantisse que as mudanças recentes no código deixassem o resto do código intacto, visando impedir a introdução de erros. A equipe decidiu realizar um tipo de teste para avaliar a parte modificada e as áreas adjacentes que podem ter sido afetadas, dentro de uma abordagem baseada em risco. Assim, os testadores destacariam as áreas de aplicação que poderiam ser afetadas pelas recentes alterações de código e selecionariam os casos de testes relevantes para o conjunto de testes. Procedendo desta forma, seriam realizados testes:
+
+R:
+De regressão.
+
+Teste de regressão permite a reexecução de um subconjunto de testes previamente executados, assegurando que as alterações ou inserções de novas funcionalidades não impactaram outras partes do software.
+
+Q2:
+Uma equipe de desenvolvedores do software está na fase final dos testes em ambiente controlado e decidiu iniciar os testes de recuperação e segurança imediatamente. Assinale a opção correta relativa ao início dos referidos testes:
+
+R:
+A equipe está realizando incorretamente os testes de sistema antes de realizar, por completo, os testes de validação.
+
+Os testes de validação do tipo Aceite Alpha ocorrem em ambiente controlado; na sequência, são realizados os testes de Aceite Beta e Formal, encerrando os testes de validação. Após esses testes, são realizados os testes de sistema, que incluem, entre outros, os testes de recuperação e segurança.
+
+Mód 4
+Q1:
+O gerente de determinado projeto de software possui uma longa lista de requisitos funcionais e não funcionais, em função da sua complexidade. As equipes de programadores e de qualidade estão encerrando as etapas de implementação e testes, possibilitando a implantação do software. Qual processo tem de estar bem definido e ajustado à complexidade do software quando da execução da etapa implantação, em função dos defeitos que deverão ser identificados em produção?
+
+R:
+Processo de controle de alterações. 
+
+Com certeza, ocorrerão erros em produção, gerando pedidos de manutenção do software. A definição prévia de um processo de controle de alterações permitirá a realização de manutenções sistemáticas e de forma planejada.
+
+Q2:
+(CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistemas – Desenvolvimento) De modo geral, o processo de desenvolvimento de um software pode ser organizado partindo de três fases importantes, que são as de definição, de desenvolvimento e de manutenção. Na fase de manutenção, dentre outras atividades, são:
+
+R:
+Incluídas novas funções requeridas pelo cliente e feitas adaptações por modificações de hardware.
+As alterações solicitadas durante a etapa de manutenção do software comumente incluem erros gerados em etapas anteriores do processo de desenvolvimento de software. Devido ao uso do software pelos usuários, poderão também surgir solicitações de novas funcionalidades, bem como problemas decorrentes de atualização de hardware.

@@ -1,0 +1,81 @@
+Mód 1
+
+Vamos imaginar que um requisito não funcional determina que a replicação de dados ocorrerá por meio de uma tecnologia desconhecida da equipe de desenvolvimento. Seria razoável aguardar o momento do desenvolvimento para realizar a tratativa desse requisito?
+
+Com certeza não, pois existiria um risco enorme do projeto atrasar em função do atendimento desse requisito tardiamente. Nesse caso, podemos aplicar a prototipação. 
+
+Q1:
+(FGV - 2010 - BADESC - Analista de Sistemas - Desenvolvimento de Sistemas) O Modelo Espiral, segundo Pressman (1995), incorpora as melhores características do Ciclo de Vida Clássico e da Prototipação e acrescenta o seguinte elemento:
+
+R:
+Análise de riscos
+
+O modelo espiral é um modelo de processo de software evolucionário que une a natureza iterativa da prototipação aos aspectos sistemáticos e controlados do modelo cascata, enfatizando no segundo quadrante da espiral a análise de riscos.
+
+Q2:
+Um gerente de projeto, junto à sua equipe de engenheiros de software, está definindo o modelo de processo de software a ser adotado em determinado projeto de software. Os requisitos do software são complexos e parcialmente identificados, o cliente impôs restrições de prazo para que o software agregue valor no seu negócio. Nesse contexto, qual o modelo de processo mais adequado?
+
+R:
+Modelo de processo evolucionário
+
+O modelo de processo evolucionário é o mais adequado em função da complexidade dos requisitos, estando eles parcialmente identificados. Esse modelo permite que os requisitos parcialmente identificados sejam considerados em um primeiro incremento, permitindo um melhor entendimento do domínio do problema e a identificação de novos requisitos para incrementos posteriores. O modelo possibilita, também, a disponibilização de versões de software agregando valor ao negócio do cliente.
+
+Mód 2
+Q1:
+(Referência: CESPE - 2010 - TRE-MT - Analista Judiciário - Tecnologia da Informação) O RUP (Rational Unified Process) é uma técnica usada na modelagem de sistemas. Com relação a esse assunto, assinale a opção correta:
+
+R:
+Uma das principais características do RUP é o uso da iteração que, por meio de refinamentos sucessivos, melhora o entendimento do problema
+
+O RUP possui como princípio, entre outros, ser iterativo e incremental. Iterativo porque as atividades se repetem a cada nova iteração, permitindo um melhor entendimento do negócio, ou seja, compreensão gradativa dos requisitos de software à medida que o desenvolvimento avança. 
+
+Q2:
+(Prefeitura Municipal de Jataí - Analista de Tecnologia da Informação (Quadrix - 2019))
+Acerca da linguagem de modelagem unificada (UML), assinale a alternativa correta:
+
+R:
+A UML tem a finalidade de documentar e visualizar os artefatos que são especificados e construídos na análise e no desenho de um sistema.
+
+A UML é uma linguagem de modelagem que permite a especificação de artefatos de software gerados nas etapas de análise e projeto de um processo de software.
+
+Mód 3
+Q1:
+(Empresa Brasileira de Correios e Telégrafos (Correios) - FIP - 2009). Assinale a alternativa que não apresenta características dos métodos ágeis de desenvolvimento de software:
+
+Entregas parciais do sistema em períodos curtos, que duram de semanas a meses, com preferência para intervalos menores.
+
+Atribuição dos requisitos de maior complexidade funcional e não funcional nas primeiras interações com os clientes, de forma a priorizar os aspectos críticos do sistema.
+
+Quantidade de código executável considerada a medida mais importante do progresso do desenvolvimento de um software.
+
+Mudanças nos requisitos, mesmo quando ocorrem próximas ao final do desenvolvimento.
+
+Processos de desenvolvimento e recursos tecnológicos disponíveis considerados mais importantes do que as interações entre os membros das equipes.
+
+R:
+Processos de desenvolvimento e recursos tecnológicos disponíveis considerados mais importantes do que as interações entre os membros das equipes.
+
+Um dos valores dos métodos ágeis inclui “indivíduos e interações, mais do que processos e ferramentas”. Esse valor tem origem de uma rejeição dos proponentes dos modelos ágeis aos processos prescritivos com rigoroso formalismo, incluindo os respectivos métodos e ferramentas CASE sugeridas. Para esses proponentes, a comunicação entre membros da equipe, incluindo clientes, é mais importante.
+
+Q2:
+Um engenheiro de software, no contexto de um projeto alinhado à metodologia ágil XP, está planejando as atividades relacionadas ao primeiro incremento, estabelecendo a seguinte sequência: detalhamento das histórias de usuários em tarefas, elaboração dos cartões CRC, codificação, elaboração dos testes unitários e execução dos testes. Assinale a opção correta relativa à sequência descrita:
+
+R:
+A elaboração dos testes deve ocorrer antes da codificação.
+
+A prática de desenvolvimento orientada a testes determina que os testes unitários sejam escritos antes da codificação, técnica também conhecida como “test first”.
+
+Mód 4
+Q1:
+(Tribunal de Justiça do Estado do Rio Grande do Norte (TJ-RN) - COMPERVE - 2020) O Scrum é um framework dentro do qual as pessoas podem tratar e resolver problemas de forma ágil. O coração do Scrum está em suas sprints. Segundo o Scrum Guide, em um projeto que adota Scrum, a autoridade de cancelar uma sprint cabe ao
+
+R:
+Product Owner
+
+Q2:
+O Método AUP é considerado uma simplificação do RUP, em função de seu ajuste aos valores do manifesto ágil. Qual atividade iterativa do AUP melhor representa a adesão ao seguinte valor: “Software em funcionamento, mais do que documentação abrangente”?
+
+R:
+Modelagem
+
+
