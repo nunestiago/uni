@@ -1,0 +1,130 @@
+Q1:
+A especificação de um processo de desenvolvimento de software requer a definição de como as atividades serão encadeadas, também denominada de fluxo de processo ou ciclo de vida. Avalie se as afirmativas a seguir são Falsas ou Verdadeiras:
+
+Fluxo de Processo Linear - as atividades são executadas em sequência, de modo que cada atividade é realizada por completo uma única vez.
+
+Fluxo de Processo Iterativo - uma atividade ou um conjunto de atividades podem ser repetidas antes de prosseguir para a seguinte.
+
+Fluxo de Processo Evolucionário - o sequenciamento de cada fluxo inclui todas as atividades, sendo que cada iteração completa gera uma nova versão do software.
+
+Quais são as alternativas corretas?
+
+R:
+V, V, F
+    Verdadeira: No fluxo de processo linear, as atividades são executadas em sequência, uma após a outra, e cada atividade é realizada por completo uma única vez. Não há retrocesso ou repetição de atividades.
+
+    Verdadeira: No fluxo de processo iterativo, uma atividade ou um conjunto de atividades podem ser repetidas antes de prosseguir para a atividade seguinte. Isso permite revisões, refinamentos e melhorias ao longo do processo.
+
+    Falsa: A descrição fornecida para o fluxo de processo evolucionário não é precisa. No fluxo de processo evolucionário, o desenvolvimento ocorre em iterações, mas cada iteração não necessariamente inclui todas as atividades. Cada iteração geralmente se concentra em um subconjunto de atividades que agregam valor ao software e resultam em uma versão funcional ou aprimorada do produto.
+    
+Q2:
+Considere as seguintes afirmativas sobre Requisitos de Software: 
+
+I - Requisitos Funcionais descrevem as funções que o software deverá executar.  
+
+II - Requisitos Funcionais não são rastreáveis, ou seja, não é possível identificar o código fonte relacionado a um requisito funcional. 
+
+III - Requisitos Não-Funcionais descrevem as ações realizadas para cada entrada do sistema, ou seja, é aquilo que descreve o que deve ser feito pelo sistema. 
+
+Assinale a alternativa CORRETA: 
+
+R:
+I e III estão corretas.
+
+    I - Correta: Requisitos Funcionais descrevem as funções que o software deverá executar. 
+
+    II - Incorreta: Requisitos Funcionais são rastreáveis, ou seja, é possível identificar o código fonte relacionado a um requisito funcional. 
+
+    III - Correta: Requisitos Não-Funcionais descrevem as ações realizadas para cada entrada do sistema, ou seja, é aquilo que descreve o que deve ser feito pelo sistema. 
+
+Q3:
+A Engenharia de Software é uma tecnologia em camada. Avalie a relação entre os conceitos e definições a seguir:
+
+[1]Camada qualidade
+[2]Camada de processo
+[3]Camada de métodos
+	
+[A]Determina as etapas de desenvolvimento do software.
+[B]Garante que os requisitos que atendem as expectativas do usuário serão cumpridos
+[C]Define os artefatos gerados em função da técnica de modelagem adotada, tal como modelo de casos de uso ou de classes.
+
+R:
+[1]B, [2]A, [3]C
+
+Q4:
+Na etapa de projeto orientado a objetos, no contexto de um processo de desenvolvimento de software, são desenvolvidas as atividades de:  
+
+R:
+identificação dos objetos do sistema e definição da arquitetura do sistema. 
+
+Q5:
+Requisitos de um sistema são frequentemente classificados como funcionais, não-funcionais e de domínio. Qual a definição que melhor descreve requisitos não-funcionais?
+
+R:
+São requisitos que derivam do domínio da aplicação e que refletem características e restrições desse domínio. 
+
+Q6:
+No contexto da etapa de projeto do processo de desenvolvimento de software, avalie a relação entre os conceitos e definições a seguir: 
+
+[1] Implantação 
+[2] Manutenção 
+[3] Reengenharia de software 
+	
+[A] Inclui a correção de defeitos não identificados nas etapas anteriores do processo de desenvolvimento de software. 
+[B] Permite a modificação de um software existente a partir de alterações significativas nas regras de negócio. 
+[C] Etapa do processo de desenvolvimento de software relacionada com a transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários. 
+
+Assinale a opção que corretamente relaciona os referidos conceitos e definições: 
+
+R:
+[1]C, [2]A, [3]B
+
+Q7:
+Ao analisar a aplicação da prototipação em seus projetos de software, decidiu-se utilizar um processo que define 4 etapas para o desenvolvimento de protótipos, sendo essas etapas: 
+
+I. Avaliar Protótipo.
+
+II. Estabelecer Objetivos do Protótipo.
+
+III. Desenvolver o Protótipo.
+
+IV. Definir a Funcionalidade do Protótipo. 
+
+A ordem sequencial correta para a execução dessas quatro etapas é:
+
+R:
+II, IV, III, I
+
+Q8:
+1 - Product Owner
+2 - Scrum Master
+3 - Scrum Team
+
+A - Garante que as regras do método Scrum estejam sendo seguidas
+B - Determina os requisitos e Funcionalidades que deverão ser entregues
+C - Responsável pelas decisões técnicas
+
+R:
+1 - B, 2 - A, 3 - C
+
+Q9:
+Já se sabe que utilizando o CMMI é possível alcançar resultados efetivos nas organizações, especialmente àquelas que mantêm seu foco em melhoria de desempenho. São várias as vantagens em utilizar o CMMI, analise as opções a seguir:
+
+ 
+
+    Retorno de Marketing e mídias digitais
+    Maior qualidade de produtos e cumprimento de prazos, menor retrabalho
+    Maior satisfação e menos reclamações de clientes
+    Menor turnover de profissionais
+    Aumento dos custos gerais
+
+Assinale a seguir a alternativa correta:
+
+R:
+II, III e IV
+
+Q10:
+No Modelo de Referência MPS para Software (MR-MPS-SW), versão de janeiro de 2021, os processos estão divididos em processos de:
+
+R:
+projetos e processos organizacionais
