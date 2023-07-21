@@ -1,0 +1,117 @@
+Q1:
+A avaliação do impacto de mudança de um requisito, muitas vezes, faz com que seja necessário retornar à sua fonte. Na validação dos requisitos, a equipe deve estar atenta, portanto, à :
+		
+
+Facilidade de compreensão
+Facilidade de verificação
+Adaptabilidade
+Rastreabilidade
+Qualidade
+
+R:
+Rastreabilidade
+
+Q2:
+A Engenharia de Software é uma tecnologia em camada. Avalie a relação entre os conceitos e definições a seguir:
+
+[1] Camada qualidade
+[A] Determina as etapas de desenvolvimento do software.
+[2] Camada de processo
+[B] Garante que os requisitos que atendem as expectativas do usuário serão cumpridos
+[3] Camada de métodos
+[C] Define os artefatos gerados em função da técnica de modelagem adotada, tal como modelo de casos de uso ou de classes.
+
+R:
+1-B, 2-A, 3-C
+
+Q3:
+Considere as seguintes afirmativas sobre Requisitos de Software: 
+
+       I - Requisitos Funcionais descrevem as funções que o software deverá executar.  
+
+       II - Requisitos Funcionais não são rastreáveis, ou seja, não é possível identificar o código fonte relacionado a um requisito funcional. 
+
+       III - Requisitos Não-Funcionais descrevem as ações realizadas para cada entrada do sistema, ou seja, é aquilo que descreve o que deve ser feito pelo sistema. 
+
+Assinale a alternativa CORRETA: 
+
+R:
+Apenas a afirmativa I é verdadeira.
+
+Q4:
+No contexto da etapa de projeto do processo de desenvolvimento de software, avalie a relação entre os conceitos e definições a seguir: 
+
+[1] Implantação 
+[A] Inclui a correção de defeitos não identificados nas etapas anteriores do processo de desenvolvimento de software. 
+[2] Manutenção 
+[B] Permite a modificação de um software existente a partir de alterações significativas nas regras de negócio. 
+[3] Reengenharia de software 
+[C] Etapa do processo de desenvolvimento de software relacionada com a transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários. 
+
+Assinale a opção que corretamente relaciona os referidos conceitos e definições: 
+
+R:
+1-C, 2-A, 3-B
+
+Q5:
+Requisitos de um sistema são frequentemente classificados como funcionais, não-funcionais e de domínio. Qual a definição que melhor descreve requisitos não-funcionais?  
+
+R:
+São requisitos que não estão diretamente relacionados com as funções específicas do sistema. 
+Requisitos não-funcionais são restrições sobre os serviços ou funções oferecidos pelo sistema, tais como tempo de resposta, confiabilidade, disponibilidade, etc.
+
+Q6:
+Considere as seguintes afirmativas relacionadas com a etapa de projeto do processo de desenvolvimento de software: 
+
+I- A partir do modelo de classes gerado na análise, aplica-se refinamentos que permitem reduzir o grau de abstração do referido modelo.  
+
+II- Os aspectos dinâmicos, considerando que o paradigma dominante na indústria de software é a orientação a objetos, são definidos nos modelos de classes.  
+
+III- A divisão lógica comumente aplicada no projeto de arquitetura, pode ser composta das seguintes camadas: apresentação, aplicação, domínio e serviços técnicos. 
+
+Assinale a alternativa CORRETA: 
+
+R:
+Apenas a afirmativa I é verdadeira.
+
+Q7:
+1 - Product Owner
+2 - Scrum Master
+3 - Scrum Team
+
+A - Garante que as regras do método Scrum estejam sendo seguidas
+B - Determina os requisitos e Funcionalidades que deverão ser entregues
+C - Responsável pelas decisões técnicas
+
+R:
+1-B, 2-A, 3-C
+
+Q8:
+Ao analisar a aplicação da prototipação em seus projetos de software, decidiu-se utilizar um processo que define 4 etapas para o desenvolvimento de protótipos, sendo essas etapas: 
+
+I. Avaliar Protótipo.
+
+II. Estabelecer Objetivos do Protótipo.
+
+III. Desenvolver o Protótipo.
+
+IV. Definir a Funcionalidade do Protótipo. 
+
+A ordem sequencial correta para a execução dessas quatro etapas é:
+
+R:
+II, IV, III, I
+
+Q9:
+O Guia MPS.BR é mantido pela Softex, que é uma Organização que desenvolve ações para promover a melhoria da competitividade da Indústria Brasileira de Software, Serviços de TI e Comunicações. Para auxiliar em sua implantação, o Guia apresenta níveis de Maturidade, na qual cada nível exige um certo grupo de processos implantados. Quantos níveis de Maturidade o Guia MPS.BR-SW apresenta?
+
+R:
+5
+
+Q10:
+A norma definida pela International Organization for Standardization (ISO) que se aplica em engenharia de software, estabelece um processo de ciclo de vida deste, contendo processos e atividades, e é aplicada durante a aquisição e a configuração dos serviços do sistema, de forma a melhorá-lo, é a:
+
+R:
+ISO/IEC 12207
+
+8 de 10
