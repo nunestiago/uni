@@ -1,0 +1,10 @@
+POST https://api-sirius.prd.qlabs.com.br/sirius-student-api/exams/consume-campus-token
+content-type: application/json
+
+{
+    "campusId":"65cecfc24fdb7cb5f714a2c2",
+    "scheduleId":"66731064e199734fa2c27e3c",
+    "evaluationType":"AV",
+    "accessKey":"000001",
+    "timezone":"-03:00"
+}
