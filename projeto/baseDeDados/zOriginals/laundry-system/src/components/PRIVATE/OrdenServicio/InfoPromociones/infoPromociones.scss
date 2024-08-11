@@ -1,0 +1,128 @@
+.info-promocion {
+  border: 1px solid silver;
+  border-radius: 15px;
+  width: 100%;
+  display: grid;
+  height: max-content;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  .head-title {
+    padding: 10px;
+    h1 {
+      font-size: 20px;
+      text-align: center;
+    }
+  }
+  hr {
+    margin: 0;
+    border: none;
+    height: 1px;
+    background-color: silver;
+  }
+  .body-promo {
+    display: grid;
+    gap: 15px;
+    padding: 20px;
+  }
+  .list-promociones {
+    padding: 10px 0;
+    display: grid;
+    gap: 15px;
+  }
+  .valid-promocion {
+    display: grid;
+    place-items: center;
+    gap: 10px;
+    .input-promotion {
+      width: 100%;
+    }
+    button {
+      font-size: 15px;
+      padding: 10px;
+      width: 70%;
+      border-radius: 10px;
+      border: none;
+      outline: none;
+      line-height: 1;
+      color: #fff;
+    }
+    .btn-valid {
+      background: #444444;
+      &:hover {
+        background: #4caf50;
+      }
+    }
+    .btn-add {
+      background: #4caf50;
+      &:hover {
+        background: #1a8d1e;
+      }
+    }
+    .description-info {
+      outline: none;
+      resize: none;
+      margin: auto;
+      width: 100%;
+      height: 100px;
+      font-size: 16px;
+      font-family: "Lato", sans-serif;
+      line-height: 20px;
+      padding: 8px;
+      box-sizing: border-box;
+      border: 1px solid rgb(70, 69, 69);
+      transition: border 0.2s ease;
+      will-change: border;
+      background-color: transparent;
+    }
+  }
+  .list-buttons-promos {
+    display: grid;
+    height: min-content;
+    max-height: 500px;
+    overflow: auto;
+    padding-right: 10px;
+    gap: 10px;
+    .optin-promo {
+      padding: 0.5rem;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+      cursor: pointer;
+
+      &:hover {
+        label {
+          color: #007bff;
+        }
+      }
+
+      input[type="radio"] {
+        margin-right: 0.75rem;
+        accent-color: #007bff;
+      }
+
+      label {
+        font-size: 1rem;
+        color: #333;
+        cursor: pointer;
+        transition: color 0.3s ease;
+      }
+
+      // Estilo para cuando el radio button está seleccionado
+      input[type="radio"]:checked + label {
+        font-weight: bold;
+        color: #007bff;
+      }
+
+      // Cambia el borde y el fondo cuando se selecciona el radio button
+      input[type="radio"]:checked {
+        border: 2px solid #007bff;
+      }
+
+      input[type="radio"]:checked + label {
+        color: #007bff;
+      }
+    }
+  }
+  .selected {
+    background: red;
+  }
+}

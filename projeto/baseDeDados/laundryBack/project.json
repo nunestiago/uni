@@ -1,0 +1,26 @@
+{
+  "name": "laundryBack",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "laundryBack/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "dependsOn": ["build"],
+      "options": {
+        "buildTarget": "laundryBack:build",
+        "runBuildTargetDependencies": false
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "laundryBack:build:development"
+        },
+        "production": {
+          "buildTarget": "laundryBack:build:production"
+        }
+      }
+    }
+  }
+}

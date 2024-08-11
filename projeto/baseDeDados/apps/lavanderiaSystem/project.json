@@ -1,0 +1,9 @@
+{
+  "name": "lavanderiaSystem",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/lavanderiaSystem/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lavanderiaSystem --web",
+  "targets": {}
+}

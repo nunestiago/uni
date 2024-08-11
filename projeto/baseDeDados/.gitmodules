@@ -1,0 +1,6 @@
+[submodule "zOriginals/laundry-system"]
+	path = zOriginals/laundry-system
+	url = git@github.com:NenaSM/laundry-system.git
+[submodule "zOriginals/service"]
+	path = zOriginals/service
+	url = git@github.com:NenaSM/service.git
